@@ -1,0 +1,291 @@
+<html>
+<body>
+    <div class="login">
+       <h1>Credit card approval Indicator</h1>
+
+       <form action="{{ url_for('predict_datapoint')}}" method="post">
+        <h1>
+            <legend>Credit card approval prediction</legend>
+        </h1>
+        <div class="mb-3">
+            <label class="form-label">Gender</label>
+            <select class="form-control" name="Gender" placeholder="Enter you Gender" required>
+                <option class="placeholder" selected disabled value="">Select your Gender</option>
+                <option value="M">
+                    M
+                </option>
+                <option value="F">
+                    F
+                </option>
+            </select>
+        </div>
+        <div class="mb-3">
+            <label class="form-label">Car_Owner</label>
+            <select class="form-control" name="Car_Owner" placeholder="Enter you car_owner" required>
+                <option class="placeholder" selected disabled value="">Select car_owner</option>
+                <option value="Y">
+                    Y
+                </option>
+                <option value="N">
+                    N
+                </option>
+            </select>
+        </div>
+       <div class="mb-3">
+            <label class="form-label">Property_Owner</label>
+            <select class="form-control" name="Property_Owner" placeholder="Enter you property_owner" required>
+                <option class="placeholder" selected disabled value="">Select Property_Owner</option>
+                <option value="Y">
+                    Y
+                </option>
+                <option value="N">
+                    N
+                </option>
+            </select>
+        </div>
+       <div class="mb-3">
+            <label class="form-label">Children</label>
+            <select class="form-control" name="Children" placeholder="Enter Children numbers" required>
+                <option class="placeholder" selected disabled value="">Select Children</option>
+                <option value=0>
+                    0
+                </option>
+                <option value=1>
+                    1
+                </option>
+                <option value=2>
+                    2
+                </option>
+            </select>
+        </div>
+       <div class="mb-3">
+            <label class="form-label">Annual_Income</label>
+            <input class="form-control" type="number" name="Annual_Income"
+                placeholder="Enter Annual_Income" min='0' max='360000' />
+        </div>
+       <div class="mb-3">
+            <label class="form-label">Type_Income</label>
+            <select class="form-control" name="Type_Income"
+                placeholder="Enter you Income Type" required>
+                <option class="placeholder" selected disabled value="">Select Type_Income</option>
+                <option value="Working">
+                    Working
+                </option>
+                <option value="Commercial associate">
+                    Commercial associate
+                </option>
+                <option value="Pensioner">
+                    Pensioner
+                </option>
+                <option value="State servant">
+                    State servant
+                </option>
+            </select>
+        </div>
+       <div class="mb-3">
+            <label class="form-label">Education</label>
+            <select class="form-control" name="Education" placeholder="Enter you Education" required>
+                <option class="placeholder" selected disabled value="">Select Education</option>
+                <option value="Secondary">
+                    Secondary
+                </option>
+                <option value="Higher education">
+                    Higher education
+                </option>
+                <option value="Incomplete higher">
+                    Incomplete higher
+                </option>
+                <option value="Lower secondary">
+                    Lower secondary
+                </option>
+                <option value="Academic degree">
+                    Academic degree
+                </option>
+            </select>
+        </div>
+       <div class="mb-3">
+            <label class="form-label">Marital_Status</label>
+            <select class="form-control" name="Marital_Status"
+                placeholder="Enter you Marital_Status" required>
+                <option class="placeholder" selected disabled value="">Select Marital_Status</option>
+                <option value="Married">
+                    Married
+                </option>
+                <option value="Single">
+                    Single
+                </option>
+                <option value="Civil marriage">
+                    Civil marriage
+                </option>
+                <option value="Separated">
+                    Separated
+                </option>
+                <option value="Widow">
+                    Widow
+                </option>
+            </select>
+        </div>
+       <div class="mb-3">
+            <label class="form-label">Housing_Type</label>
+            <select class="form-control" name="Housing_Type"
+                placeholder="Enter you Housing_Type" required>
+                <option class="placeholder" selected disabled value="">Select Housing_Type</option>
+                <option value="House">
+                    House
+                </option>
+                <option value="With parents">
+                    With parents
+                </option>
+                <option value="Municipal apartment">
+                    Municipal apartment
+                </option>
+                <option value="Rented apartment">
+                    Rented apartment
+                </option>
+                <option value="Office apartment">
+                    Office apartment
+                </option>
+                 <option value="Co-op apartment">
+                    Co-op apartment
+                </option>
+            </select>
+        </div>
+       <div class="mb-3">
+            <label class="form-label">Mobile_Phone</label>
+            <select class="form-control" name="Mobile_Phone" placeholder="Enter you Mobile_Phone" required>
+                <option class="placeholder" selected disabled value="">Select Mobile_Phone</option>
+                <option value=1>
+                    1
+                </option>
+                <option value=0>
+                    0
+                </option>
+            </select>
+        </div>
+       <div class="mb-3">
+            <label class="form-label">Work_Phone</label>
+            <select class="form-control" name="Work_Phone" placeholder="Enter you Work_Phone" required>
+                <option class="placeholder" selected disabled value="">Select Work_Phone</option>
+                <option value=1>
+                    1
+                </option>
+                <option value=0>
+                    0
+                </option>
+            </select>
+        </div>
+       <div class="mb-3">
+            <label class="form-label">Phone</label>
+            <select class="form-control" name="Phone" placeholder="Enter you Phone" required>
+                <option class="placeholder" selected disabled value="">Select Phone</option>
+                <option value=1>
+                    1
+                </option>
+                <option value=0>
+                    0
+                </option>
+            </select>
+        </div>
+       <div class="mb-3">
+            <label class="form-label">Email_Id</label>
+            <select class="form-control" name="Email_Id" placeholder="Enter you Email_Id" required>
+                <option class="placeholder" selected disabled value="">Select Email_Id</option>
+                <option value=1>
+                    1
+                </option>
+                <option value=0>
+                    0
+                </option>
+            </select>
+        </div>
+       <div class="mb-3">
+            <label class="form-label">Type_Occupation</label>
+            <select class="form-control" name="Type_Occupation"
+                placeholder="Enter you occupation type" required>
+                <option class="placeholder" selected disabled value="">Select Type_Occupation</option>
+                <option value="Other">
+                    Other
+                </option>
+                <option value="Laborers">
+                    Laborers
+                </option>
+                <option value="Core staff">
+                    Core staff
+                </option>
+                <option value="Sales staff">
+                    Sales staff
+                </option>
+                <option value="Managers">
+                    Managers
+                </option>
+                <option value="Drivers">
+                    Drivers
+                </option>
+                <option value="High skill tech staff">
+                    High skill tech staff
+                </option>
+                <option value="Accountants">
+                    Accountants
+                </option>
+                <option value="Medicine staff">
+                    Medicine staff
+                </option>
+                <option value="Security staff">
+                    Security staff
+                </option>
+                <option value="Drivers">
+                    Drivers
+                </option>
+                <option value="Cleaning staff">
+                    Cleaning staff
+                </option>
+                <option value="Cooking staff">
+                    Cooking staff
+                </option>
+                <option value="Private service staff">
+                    Private service staff
+                </option>
+                <option value="Low-skill Laborers">
+                    Low-skill Laborers
+                </option>
+                <option value="Secretaries">
+                    Secretaries
+                </option>
+                <option value="Waiters/barmen staff ">
+                    Waiters/barmen staff
+                </option>
+                <option value="HR staff">
+                    HR staff
+                </option>
+                <option value="IT staff">
+                    IT staff
+                </option>
+                <option value="Realty agents">
+                    Realty agents
+                </option>
+            </select>
+        </div>
+       <div class="mb-3">
+            <label class="form-label">Family_Members</label>
+            <input class="form-control" type="number" name="Family_Members"
+                placeholder="Enter No. of Family_Members" min='1' max='4' />
+        </div>
+       <div class="mb-3">
+            <label class="form-label">Year_Of_Experience</label>
+            <input class="form-control" type="number" step="any" name="Year_Of_Experience"
+                placeholder="Enter Year_Of_Experience" min='0.0' max='40.5' />
+        </div>
+       <div class="mb-3">
+            <label class="form-label">Age</label>
+            <input class="form-control" type="number" step="any" name="Age"
+                placeholder="Enter Age" min='21' max='68' />
+        </div>
+       <div class="mb-3">
+            <input class="btn btn-primary" type="submit" value="Predict credit card approval" required />
+        </div>
+    </form>
+    <h2>
+       THE  prediction is {{results}}
+    </h2>
+<body>
+</html>
