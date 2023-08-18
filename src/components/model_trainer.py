@@ -125,7 +125,9 @@ class ModelTrainer:
             best_model_precision_score = model_report[1][best_model_name]
 
             logging.log(self.file_object,
-                        f'best model has been chosen which is {best_model_name} with auc score : {best_model_auc_score} and precision score {best_model_precision_score} ')
+                        f'best model has been chosen which is {best_model_name} with auc score : {best_model_auc_score} and precision score {best_model_precision_score}')
+
+
             logging.log(self.file_object,
                         'model training is succcessful of model_trainer method, exiting the ModelTrainer Class')
 

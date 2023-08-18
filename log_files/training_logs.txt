@@ -2483,3 +2483,85 @@ LogisticRegression does not accept missing values encoded as NaN natively. For s
 2023-08-17/15:59:48		feature extraction is successful.Data written to the feature_extracted_data.csv file. Exited the feature_extraction method of the Preprocessor class
 2023-08-17/15:59:48		Entered the split_data method of the Data_Getter class
 2023-08-17/15:59:49		Splitting of data is Successful.Exited the split_data method of the Data_Getter class
+2023-08-18/12:54:18		Entered the get_data method of the Data_Getter class
+2023-08-18/12:54:18		Data Load Successful.Exited the get_data method of the Data_Getter class
+2023-08-18/12:54:18		Entered the merge_data method of the Data_Getter class
+2023-08-18/12:54:18		Data merged Successful.Exited the merge_data method of the Data_Getter class
+2023-08-18/12:54:18		Entered the column_name_correction method of the Preprocessor class
+2023-08-18/12:54:18		Renaming column is successful. Exited the column_name_correction method of the Preprocessor class
+2023-08-18/12:54:18		Entered the value_name_change method of the Preprocessor class
+2023-08-18/12:54:19		value_name_change is successful.Data written to the name_changed_data.csv file. Exited the value_name_change method of the Preprocessor class
+2023-08-18/12:54:19		Entered the feature_extraction method of the Preprocessor class
+2023-08-18/12:54:19		feature extraction is successful.Data written to the feature_extracted_data.csv file. Exited the feature_extraction method of the Preprocessor class
+2023-08-18/12:54:19		Entered the split_data method of the Data_Getter class
+2023-08-18/12:54:19		Splitting of data is Successful.Exited the split_data method of the Data_Getter class
+2023-08-18/12:54:19		Entered the initiate_data_transformation method of the Preprocessor class
+2023-08-18/12:54:19		reading training and testing data of initiate_data_transformation method in Preprocessor class
+2023-08-18/12:54:19		reading training and testing data is successful of initiate_data_transformation method in Preprocessor class
+2023-08-18/12:54:19		obtaining preprocessor object from get_data_transformer_object method
+2023-08-18/12:54:19		Entered the get_data_transformer_object method of the Preprocessor class
+2023-08-18/12:54:19		preprocessor transformer initiating of get_data_transformer_object method in Preprocessor class
+2023-08-18/12:54:19		obtaining preprocessor object successful from get_data_transformer_object method
+2023-08-18/12:54:19		Applying preprocessor object on training dataframe and testing dataframe in initiate_data_transformation method of Preprocessor Class
+2023-08-18/12:54:19		Applying preprocessor object on training dataframe successful
+2023-08-18/12:54:19		Applying preprocessor object on testing dataframe successful
+2023-08-18/12:54:19		"Saved preprocessing pickle file" of initiate_data_transformation method in Preprocessor Class
+2023-08-18/12:54:19		Entered the initiate_model_trainer method of the ModelTrainer class
+2023-08-18/12:54:19		splitting train array and test array in to X_train,y_train X_test,y_test
+2023-08-18/12:54:19		splitting is successful
+2023-08-18/13:03:49		Entered the get_data method of the Data_Getter class
+2023-08-18/13:03:49		Data Load Successful.Exited the get_data method of the Data_Getter class
+2023-08-18/13:03:49		Entered the merge_data method of the Data_Getter class
+2023-08-18/13:03:49		Data merged Successful.Exited the merge_data method of the Data_Getter class
+2023-08-18/13:03:49		Entered the column_name_correction method of the Preprocessor class
+2023-08-18/13:03:49		Renaming column is successful. Exited the column_name_correction method of the Preprocessor class
+2023-08-18/13:03:49		Entered the value_name_change method of the Preprocessor class
+2023-08-18/13:03:49		value_name_change is successful.Data written to the name_changed_data.csv file. Exited the value_name_change method of the Preprocessor class
+2023-08-18/13:03:49		Entered the feature_extraction method of the Preprocessor class
+2023-08-18/13:03:49		feature extraction is successful.Data written to the feature_extracted_data.csv file. Exited the feature_extraction method of the Preprocessor class
+2023-08-18/13:03:49		Entered the split_data method of the Data_Getter class
+2023-08-18/13:03:49		Splitting of data is Successful.Exited the split_data method of the Data_Getter class
+2023-08-18/13:03:49		Entered the initiate_data_transformation method of the Preprocessor class
+2023-08-18/13:03:49		reading training and testing data of initiate_data_transformation method in Preprocessor class
+2023-08-18/13:03:49		reading training and testing data is successful of initiate_data_transformation method in Preprocessor class
+2023-08-18/13:03:49		obtaining preprocessor object from get_data_transformer_object method
+2023-08-18/13:03:49		Entered the get_data_transformer_object method of the Preprocessor class
+2023-08-18/13:03:49		preprocessor transformer initiating of get_data_transformer_object method in Preprocessor class
+2023-08-18/13:03:49		obtaining preprocessor object successful from get_data_transformer_object method
+2023-08-18/13:03:49		Applying preprocessor object on training dataframe and testing dataframe in initiate_data_transformation method of Preprocessor Class
+2023-08-18/13:03:50		Applying preprocessor object on training dataframe successful
+2023-08-18/13:03:50		Applying preprocessor object on testing dataframe successful
+2023-08-18/13:03:50		"Saved preprocessing pickle file" of initiate_data_transformation method in Preprocessor Class
+2023-08-18/13:03:50		Entered the initiate_model_trainer method of the ModelTrainer class
+2023-08-18/13:03:50		splitting train array and test array in to X_train,y_train X_test,y_test
+2023-08-18/13:03:50		splitting is successful
+2023-08-18/13:48:12		Exception occured in model_trainer method of the ModelTrainer class. Exception message: '<' not supported between instances of 'dict' and 'dict'
+2023-08-18/13:48:12		model training is failed of model_trainer method, exiting the ModelTrainer Class
+2023-08-18/20:48:51		Entered the get_data method of the Data_Getter class
+2023-08-18/20:48:52		Data Load Successful.Exited the get_data method of the Data_Getter class
+2023-08-18/20:48:52		Entered the merge_data method of the Data_Getter class
+2023-08-18/20:48:52		Data merged Successful.Exited the merge_data method of the Data_Getter class
+2023-08-18/20:48:52		Entered the column_name_correction method of the Preprocessor class
+2023-08-18/20:48:52		Renaming column is successful. Exited the column_name_correction method of the Preprocessor class
+2023-08-18/20:48:52		Entered the value_name_change method of the Preprocessor class
+2023-08-18/20:48:52		value_name_change is successful.Data written to the name_changed_data.csv file. Exited the value_name_change method of the Preprocessor class
+2023-08-18/20:48:52		Entered the feature_extraction method of the Preprocessor class
+2023-08-18/20:48:52		feature extraction is successful.Data written to the feature_extracted_data.csv file. Exited the feature_extraction method of the Preprocessor class
+2023-08-18/20:48:52		Entered the split_data method of the Data_Getter class
+2023-08-18/20:48:52		Splitting of data is Successful.Exited the split_data method of the Data_Getter class
+2023-08-18/20:48:52		Entered the initiate_data_transformation method of the Preprocessor class
+2023-08-18/20:48:52		reading training and testing data of initiate_data_transformation method in Preprocessor class
+2023-08-18/20:48:52		reading training and testing data is successful of initiate_data_transformation method in Preprocessor class
+2023-08-18/20:48:52		obtaining preprocessor object from get_data_transformer_object method
+2023-08-18/20:48:52		Entered the get_data_transformer_object method of the Preprocessor class
+2023-08-18/20:48:52		preprocessor transformer initiating of get_data_transformer_object method in Preprocessor class
+2023-08-18/20:48:52		obtaining preprocessor object successful from get_data_transformer_object method
+2023-08-18/20:48:52		Applying preprocessor object on training dataframe and testing dataframe in initiate_data_transformation method of Preprocessor Class
+2023-08-18/20:48:52		Applying preprocessor object on training dataframe successful
+2023-08-18/20:48:52		Applying preprocessor object on testing dataframe successful
+2023-08-18/20:48:52		"Saved preprocessing pickle file" of initiate_data_transformation method in Preprocessor Class
+2023-08-18/20:48:52		Entered the initiate_model_trainer method of the ModelTrainer class
+2023-08-18/20:48:52		splitting train array and test array in to X_train,y_train X_test,y_test
+2023-08-18/20:48:52		splitting is successful
+2023-08-18/21:47:35		best model has been chosen which is Catboost with auc score : 0.8045442039618488 and precision score {'zero': 0.937246963562753, 'one': 0.9411764705882353}
+2023-08-18/21:47:35		model training is succcessful of model_trainer method, exiting the ModelTrainer Class

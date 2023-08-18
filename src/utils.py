@@ -55,8 +55,8 @@ def evaluate_models(X_train,y_train,X_test,y_test,models,params):
                                     'zero':testing_report['0.0']['precision']
                                     ,'one':testing_report['1.0']['precision']}
             auc_score_report[model_name] = auc_score_test
-        # print(precision_report)
-        # print(auc_score_report)
+        print(precision_report)
+        print(auc_score_report)
 
         return auc_score_report,precision_report
 
