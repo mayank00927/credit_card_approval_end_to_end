@@ -1,0 +1,1038 @@
+Gender,Car_Owner,Property_Owner,Children,Annual_Income,Type_Income,Education,Marital_Status,Housing_Type,Mobile_Phone,Work_Phone,Phone,Email_Id,Type_Occupation,Family_Members,Label,Year_Of_Experience,Age
+F,N,N,0,103500.0,Working,Secondary,Single,House,1,1,1,0,Sales staff,1,0,1.2,34.0
+F,N,Y,0,193500.0,Working,Secondary,Single,House,1,0,0,0,,1,0,26.5,51.0
+M,Y,Y,1,450000.0,Commercial associate,Secondary,Single,House,1,0,1,1,Core staff,1,1,1.9,50.0
+M,Y,N,1,193500.0,Working,Higher education,Married,House,1,1,1,0,,3,0,11.0,49.0
+F,N,N,0,112500.0,State servant,Secondary,Married,With parents,1,0,0,0,Medicine staff,2,0,25.7,47.0
+M,Y,Y,0,315000.0,Commercial associate,Secondary,Married,Rented apartment,1,0,0,0,Drivers,2,0,5.6,47.0
+F,N,N,1,157500.0,Commercial associate,Incomplete higher,Married,With parents,1,0,0,0,,3,0,7.6,33.0
+M,Y,N,0,328500.0,Working,Higher education,Married,House,1,1,1,0,,2,0,7.3,41.0
+F,N,N,0,81000.0,Pensioner,Secondary,Widow,House,1,0,1,0,,1,1,0.0,65.0
+F,N,Y,0,112500.0,Working,Secondary,Married,Municipal apartment,1,0,0,0,,2,0,10.1,56.0
+M,Y,Y,1,180000.0,Commercial associate,Secondary,Married,House,1,0,1,0,High skill tech staff,3,0,5.5,44.0
+F,N,N,0,315000.0,Commercial associate,Secondary,Married,House,1,0,1,0,High skill tech staff,2,0,8.8,37.0
+M,Y,Y,2,225000.0,Working,Secondary,Married,House,1,0,0,0,Laborers,4,0,9.3,28.0
+M,Y,Y,0,135000.0,Working,Secondary,Married,House,1,0,0,1,Sales staff,2,0,2.6,28.0
+F,Y,Y,0,103500.0,Pensioner,Secondary,Married,House,1,0,1,0,,2,0,0.0,59.0
+M,Y,Y,0,418500.0,Working,Higher education,Married,House,1,0,1,0,,2,0,0.2,52.0
+F,N,N,0,157500.0,Commercial associate,Higher education,Separated,With parents,1,0,0,0,,1,0,1.2,43.0
+F,N,Y,0,67500.0,Commercial associate,Higher education,Separated,House,1,0,1,0,Core staff,1,1,1.4,52.0
+M,N,Y,0,135000.0,Working,Secondary,Married,House,1,0,0,0,Laborers,2,0,19.5,38.0
+F,N,N,0,67500.0,Working,Secondary,Married,House,1,1,1,0,Sales staff,2,0,19.2,55.0
+F,N,Y,0,135000.0,Commercial associate,Higher education,Married,House,1,1,0,1,Core staff,2,0,2.5,25.0
+F,N,N,0,126000.0,Pensioner,Secondary,Married,House,1,0,0,0,,2,0,0.0,60.0
+M,Y,Y,0,202500.0,Commercial associate,Secondary,Married,Rented apartment,1,0,0,0,,2,0,7.3,29.0
+F,N,Y,0,69372.0,Working,Secondary,Married,House,1,1,1,0,Laborers,2,0,0.6,44.0
+F,N,N,0,135000.0,Working,Secondary,Single,House,1,0,0,0,,1,0,12.9,32.0
+M,Y,Y,0,135000.0,Working,Secondary,Married,House,1,0,0,0,Laborers,2,1,0.6,29.0
+M,Y,N,1,180000.0,Working,Higher education,Married,House,1,0,0,0,Drivers,3,0,0.6,31.0
+M,Y,Y,1,112500.0,Working,Secondary,Married,House,1,1,1,0,Drivers,3,1,2.5,44.0
+F,N,N,0,157500.0,Working,Secondary,Married,House,1,1,0,0,Cooking staff,2,0,8.6,52.0
+F,N,Y,0,189000.0,Pensioner,Secondary,Widow,House,1,0,0,0,,1,0,0.0,57.0
+F,N,N,1,112500.0,Commercial associate,Secondary,Married,House,1,0,0,0,High skill tech staff,3,0,6.2,26.0
+M,N,N,0,112500.0,Working,Secondary,Civil marriage,Rented apartment,1,0,0,0,,2,0,6.9,40.0
+F,N,Y,0,112500.0,State servant,Secondary,Single,House,1,1,0,0,Core staff,1,0,35.6,56.0
+F,N,N,0,112500.0,Commercial associate,Incomplete higher,Married,House,1,0,1,0,,2,0,6.4,28.0
+M,Y,Y,3,270000.0,Working,Secondary,Married,House,1,1,0,0,Laborers,5,0,1.3,37.0
+F,N,Y,0,135000.0,State servant,Secondary,Married,House,1,0,1,0,Core staff,2,0,25.8,56.0
+M,Y,N,0,306000.0,Working,Secondary,Married,House,1,0,0,0,Managers,2,0,4.5,44.0
+F,N,Y,0,135000.0,Working,Higher education,Single,House,1,0,0,0,Managers,1,0,3.1,25.0
+M,Y,Y,0,225000.0,State servant,Secondary,Married,House,1,1,1,0,High skill tech staff,2,0,10.1,38.0
+F,Y,Y,1,180000.0,Commercial associate,Secondary,Single,House,1,0,0,0,Private service staff,2,0,3.9,31.0
+F,N,Y,0,112500.0,Working,Secondary,Single,House,1,0,1,0,High skill tech staff,1,0,3.8,43.0
+F,N,Y,0,157500.0,Pensioner,Secondary,Married,House,1,0,1,0,,2,0,0.0,63.0
+M,N,N,1,225000.0,Working,Higher education,Married,House,1,0,0,0,Managers,3,0,6.8,50.0
+M,Y,Y,0,144000.0,Commercial associate,Higher education,Married,House,1,0,1,0,Managers,2,0,6.5,53.0
+M,Y,Y,0,180000.0,Working,Secondary,Married,House,1,0,0,0,Laborers,2,0,0.4,47.0
+M,N,Y,0,202500.0,Working,Secondary,Married,House,1,0,1,0,High skill tech staff,2,0,0.9,53.0
+M,N,Y,0,270000.0,Commercial associate,Secondary,Single,House,1,0,0,0,Laborers,1,0,16.1,40.0
+F,N,N,1,202500.0,Commercial associate,Secondary,Separated,House,1,0,0,0,Sales staff,2,0,8.7,30.0
+F,N,Y,0,180000.0,State servant,Higher education,Married,House,1,0,0,0,Core staff,2,0,3.3,48.0
+M,N,Y,2,135000.0,Working,Secondary,Married,House,1,0,0,0,Laborers,4,0,12.6,31.0
+F,N,Y,2,180000.0,Working,Incomplete higher,Separated,House,1,1,0,0,,3,1,9.6,34.0
+F,N,Y,0,225000.0,Pensioner,Secondary,Single,House,1,0,0,0,,1,1,0.0,64.0
+F,Y,N,0,180000.0,Working,Higher education,Married,With parents,1,1,1,0,Accountants,2,0,2.8,31.0
+F,N,Y,0,135000.0,State servant,Incomplete higher,Single,With parents,1,0,1,1,,1,0,5.7,27.0
+F,N,Y,2,270000.0,Commercial associate,Higher education,Married,House,1,0,0,1,Secretaries,4,0,6.0,42.0
+F,N,N,0,180000.0,Working,Secondary,Married,Municipal apartment,1,1,1,0,Sales staff,2,0,0.6,33.0
+M,Y,N,2,166500.0,Commercial associate,Higher education,Married,House,1,0,0,0,Core staff,4,0,3.3,34.0
+F,N,Y,0,157500.0,State servant,Higher education,Separated,House,1,0,1,0,,1,0,31.2,57.0
+F,N,N,3,180000.0,Working,Higher education,Married,House,1,0,0,0,Core staff,5,0,19.2,37.0
+F,N,Y,0,315000.0,Commercial associate,Secondary,Married,House,1,0,0,0,,2,0,6.6,40.0
+F,N,Y,0,270000.0,Pensioner,Higher education,Married,House,1,0,0,0,,2,0,0.0,61.0
+F,N,Y,0,90000.0,Working,Secondary,Separated,House,1,0,0,0,,1,0,9.1,52.0
+M,Y,Y,0,315000.0,Working,Higher education,Married,House,1,0,0,0,Laborers,2,0,3.2,49.0
+F,Y,N,0,225000.0,Working,Secondary,Married,House,1,0,1,0,Sales staff,2,0,2.9,57.0
+F,N,N,0,225000.0,Pensioner,Secondary,Married,House,1,0,1,0,,2,0,0.0,56.0
+F,N,Y,0,99000.0,Working,Secondary,Married,House,1,0,0,0,Sales staff,2,0,2.4,43.0
+M,Y,N,0,292500.0,Working,Secondary,Single,House,1,0,1,0,Drivers,1,0,4.2,38.0
+F,N,Y,0,153000.0,Pensioner,Secondary,Separated,House,1,0,1,0,,1,0,0.0,60.0
+M,Y,Y,0,247500.0,Working,Secondary,Married,House,1,1,1,0,Drivers,2,0,3.5,42.0
+F,N,Y,0,157500.0,Pensioner,Secondary,Widow,House,1,0,0,0,,1,0,0.0,59.0
+M,N,N,1,315000.0,Commercial associate,Higher education,Married,House,1,0,1,0,,3,0,0.3,50.0
+F,Y,N,0,185400.0,Commercial associate,Secondary,Married,House,1,0,0,0,Laborers,2,0,8.8,40.0
+F,N,N,0,103500.0,Working,Higher education,Married,House,1,1,1,0,,2,0,18.2,44.0
+F,Y,Y,0,135000.0,Working,Lower secondary,Married,House,1,0,1,0,High skill tech staff,2,0,1.7,45.0
+F,Y,N,0,202500.0,Commercial associate,Incomplete higher,Separated,House,1,0,1,1,Accountants,1,0,3.7,39.0
+F,N,N,0,180000.0,Commercial associate,Secondary,Single,House,1,0,0,0,,1,0,6.5,31.0
+F,Y,N,0,135000.0,Commercial associate,Higher education,Married,House,1,1,1,1,High skill tech staff,2,0,2.3,32.0
+F,N,Y,0,162000.0,Pensioner,Secondary,Married,House,1,0,0,0,,2,0,0.0,62.0
+M,Y,N,0,270000.0,Working,Higher education,Married,House,1,0,0,0,Managers,2,0,13.9,51.0
+F,N,Y,0,315000.0,Working,Secondary,Separated,House,1,0,0,0,Laborers,1,0,9.0,42.0
+F,N,N,0,58500.0,Pensioner,Secondary,Married,House,1,0,0,0,,2,0,0.0,57.0
+F,Y,Y,0,,Working,Secondary,Married,House,1,1,1,0,Cooking staff,2,1,2.7,52.0
+,Y,N,1,450000.0,Working,Higher education,Married,House,1,0,1,1,Core staff,3,1,1.4,27.0
+F,Y,N,0,112500.0,State servant,Secondary,Widow,House,1,0,0,0,Secretaries,1,0,16.1,54.0
+F,Y,Y,1,157500.0,State servant,Secondary,Married,House,1,0,0,0,Laborers,3,0,9.3,38.0
+M,N,Y,0,162000.0,Pensioner,Higher education,Married,House,1,0,1,0,,2,0,0.0,64.0
+M,Y,Y,0,180000.0,Working,Secondary,Married,House,1,0,0,0,Drivers,2,0,6.6,59.0
+F,Y,Y,0,135000.0,Working,Lower secondary,Married,House,1,0,1,0,High skill tech staff,2,1,1.7,45.0
+M,Y,N,2,202500.0,Working,Secondary,Married,House,1,0,0,0,Laborers,4,0,10.4,44.0
+F,N,Y,0,130500.0,Working,Secondary,Married,House,1,0,0,0,Core staff,2,0,15.0,37.0
+M,N,Y,1,112500.0,Working,Secondary,Married,House,1,0,0,0,Laborers,3,0,14.1,50.0
+F,Y,N,0,99000.0,Working,Secondary,Married,House,1,0,1,0,Cooking staff,2,0,15.0,41.0
+F,Y,N,0,202500.0,Commercial associate,Secondary,Civil marriage,With parents,1,0,1,0,,2,0,14.6,39.0
+F,Y,Y,0,135000.0,Working,Lower secondary,Married,House,1,0,1,0,High skill tech staff,2,1,1.7,45.0
+F,N,N,1,387000.0,Commercial associate,Higher education,Married,House,1,0,0,0,,3,0,2.0,42.0
+F,N,N,0,112500.0,State servant,Secondary,Widow,House,1,1,0,0,,1,0,14.4,53.0
+M,Y,Y,0,270000.0,Working,Higher education,Married,House,1,0,0,0,Drivers,2,0,1.1,30.0
+F,Y,Y,1,119700.0,Working,Higher education,Married,House,1,0,1,0,,3,0,9.1,36.0
+F,Y,Y,0,139500.0,Pensioner,Secondary,Married,House,1,0,0,0,,2,0,0.0,58.0
+F,N,N,0,157500.0,Working,Higher education,Separated,House,1,0,0,0,Medicine staff,1,0,8.2,47.0
+F,Y,Y,1,270000.0,Working,Secondary,Married,House,1,0,0,0,Laborers,3,0,12.6,40.0
+F,Y,N,0,112500.0,Working,Secondary,Married,House,1,1,0,0,Cooking staff,2,0,20.2,39.0
+F,N,N,0,306000.0,State servant,Higher education,Married,House,1,0,0,0,Medicine staff,2,0,15.3,35.0
+F,N,Y,0,90000.0,Working,Secondary,Married,House,1,0,0,0,Medicine staff,2,0,0.6,55.0
+F,Y,N,0,202500.0,Working,Higher education,Married,House,1,0,0,0,Accountants,2,0,0.4,25.0
+F,Y,Y,0,112500.0,Working,Higher education,Married,House,1,0,0,1,Accountants,2,0,6.3,31.0
+F,N,N,1,292500.0,Working,Incomplete higher,Married,House,1,1,1,0,Sales staff,3,0,11.0,34.0
+F,N,N,0,594000.0,Pensioner,Higher education,Single,Municipal apartment,1,0,0,0,,1,0,0.0,48.0
+F,N,N,0,144000.0,Working,Secondary,Married,House,1,0,1,0,Laborers,2,0,5.6,
+M,Y,Y,2,225000.0,Working,Higher education,Married,House,1,0,0,0,Drivers,4,0,2.7,37.0
+F,N,Y,0,135000.0,Working,Secondary,Married,House,1,0,0,0,Cleaning staff,2,0,14.2,50.0
+F,Y,N,0,,Commercial associate,Higher education,Married,House,1,1,1,0,,2,1,1.6,37.0
+M,Y,N,0,112500.0,Pensioner,Secondary,Married,House,1,0,0,0,,2,0,0.0,56.0
+F,N,N,0,180000.0,Commercial associate,Incomplete higher,Married,With parents,1,1,0,1,Sales staff,2,0,1.2,23.0
+M,Y,Y,0,270000.0,Working,Higher education,Married,House,1,0,0,0,,2,0,1.0,34.0
+,Y,N,0,315000.0,Pensioner,Higher education,Married,House,1,1,1,0,,2,1,1.6,37.0
+M,Y,N,0,270000.0,Commercial associate,Higher education,Separated,House,1,0,1,0,,1,0,6.4,32.0
+M,Y,N,0,225000.0,Working,Secondary,Married,House,1,0,0,0,,2,0,3.7,30.0
+F,Y,Y,0,112500.0,Working,Higher education,Married,House,1,1,1,0,Laborers,2,0,1.4,28.0
+M,Y,Y,0,450000.0,Commercial associate,Higher education,Separated,House,1,1,1,0,,1,1,2.3,44.0
+F,N,Y,0,193500.0,Working,Secondary,Married,House,1,0,1,0,,2,0,31.4,58.0
+M,N,Y,1,900000.0,Working,Secondary,Married,House,1,0,0,0,Laborers,3,0,12.4,42.0
+F,N,N,1,202500.0,Working,Secondary,Separated,House,1,0,0,0,Laborers,2,1,0.4,38.0
+M,Y,Y,0,495000.0,Working,Secondary,Single,Rented apartment,1,0,0,0,Cooking staff,1,0,14.7,39.0
+F,N,Y,0,112500.0,Pensioner,Secondary,Married,House,1,0,0,0,,2,0,0.0,62.0
+F,N,N,0,270000.0,Working,Incomplete higher,Civil marriage,House,1,1,0,1,Medicine staff,2,0,0.8,24.0
+M,Y,Y,1,135000.0,State servant,Higher education,Married,House,1,0,0,1,Core staff,3,0,0.4,25.0
+F,N,Y,0,135000.0,Working,Secondary,Married,House,1,1,0,0,Security staff,2,0,8.8,59.0
+M,Y,Y,0,337500.0,Working,Higher education,Married,House,1,0,0,0,Managers,2,0,18.5,50.0
+F,N,Y,0,130500.0,Working,Secondary,Married,House,1,0,0,0,Core staff,2,0,15.0,37.0
+F,N,N,0,198000.0,Pensioner,Secondary,Widow,House,1,0,1,0,,1,0,0.0,60.0
+M,N,Y,0,270000.0,Working,Higher education,Married,House,1,0,0,0,Laborers,2,0,6.2,33.0
+F,N,Y,0,112500.0,Working,Higher education,Married,With parents,1,0,0,0,Core staff,2,0,2.3,26.0
+M,N,Y,1,135000.0,Working,Secondary,Married,House,1,1,1,0,Security staff,3,0,8.3,38.0
+F,Y,Y,1,225000.0,Working,Higher education,Married,House,1,1,1,0,High skill tech staff,3,0,4.4,39.0
+M,N,Y,0,180000.0,Working,Secondary,Married,House,1,0,0,1,Sales staff,2,0,3.8,28.0
+F,N,N,0,144000.0,Working,Secondary,Single,House,1,1,1,0,Core staff,1,0,20.0,46.0
+F,Y,N,0,202500.0,Working,Higher education,Married,House,1,0,0,0,Accountants,2,0,8.0,38.0
+F,N,Y,0,202500.0,Working,Incomplete higher,Single,House,1,0,0,0,Core staff,1,0,20.0,51.0
+F,N,N,0,216000.0,Pensioner,Secondary,Married,House,1,0,0,0,,2,0,0.0,63.0
+F,Y,Y,1,135000.0,Working,Secondary,Married,House,1,0,1,0,Sales staff,3,0,4.8,41.0
+F,N,Y,0,180000.0,Pensioner,Secondary,Single,House,1,0,0,0,,1,0,0.0,64.0
+M,N,N,0,112500.0,Commercial associate,Secondary,Single,Municipal apartment,1,0,1,0,Laborers,1,0,0.8,43.0
+M,Y,N,0,180000.0,Commercial associate,Secondary,Married,Municipal apartment,1,1,0,0,,2,0,8.2,27.0
+F,Y,N,1,225000.0,Working,Higher education,Civil marriage,House,1,1,1,0,Core staff,3,0,2.7,37.0
+F,N,Y,1,135000.0,Working,Higher education,Married,House,1,1,1,0,High skill tech staff,3,0,22.4,43.0
+F,N,Y,1,135000.0,Pensioner,Secondary,Civil marriage,House,1,0,0,0,,3,0,0.0,53.0
+M,Y,Y,1,180000.0,Commercial associate,Higher education,Married,House,1,0,0,1,,3,0,4.0,41.0
+M,Y,Y,1,202500.0,Working,Secondary,Married,House,1,1,1,0,Drivers,3,0,5.8,42.0
+F,Y,N,0,144000.0,Working,Secondary,Widow,House,1,0,0,0,HR staff,1,0,3.7,39.0
+F,N,Y,0,180000.0,Commercial associate,Secondary,Civil marriage,House,1,0,0,0,Laborers,2,0,3.1,38.0
+F,N,N,0,211500.0,Working,Secondary,Married,House,1,1,1,0,,2,0,4.6,47.0
+M,Y,N,0,261000.0,Commercial associate,Incomplete higher,Civil marriage,With parents,1,0,0,0,Sales staff,2,0,1.8,24.0
+M,Y,Y,0,90000.0,Working,Secondary,Married,House,1,1,1,0,Laborers,2,0,14.9,33.0
+M,N,Y,0,99000.0,Pensioner,Higher education,Separated,House,1,0,0,0,,1,1,0.0,67.0
+F,N,Y,0,612000.0,State servant,Secondary,Married,House,1,0,0,1,Accountants,2,0,10.2,34.0
+M,Y,N,0,225000.0,Commercial associate,Secondary,Married,House,1,1,0,0,Drivers,2,0,11.0,49.0
+F,N,Y,0,180000.0,Working,Higher education,Married,House,1,0,0,0,Laborers,2,1,2.3,44.0
+F,Y,Y,1,1575000.0,Commercial associate,Higher education,Single,House,1,0,0,0,Managers,2,0,6.8,28.0
+F,N,N,0,292500.0,State servant,Secondary,Married,House,1,1,1,0,Accountants,2,0,23.8,57.0
+M,Y,Y,0,301500.0,Working,Secondary,Married,Rented apartment,1,0,0,0,Laborers,2,0,2.4,25.0
+M,N,Y,2,112500.0,Commercial associate,Secondary,Married,House,1,1,0,0,Laborers,4,0,3.2,30.0
+M,Y,Y,3,202500.0,Working,Secondary,Married,House,1,0,0,0,Laborers,5,0,5.4,37.0
+F,N,Y,1,180000.0,Pensioner,Higher education,Married,House,1,0,1,0,,3,0,0.0,52.0
+M,N,Y,0,157500.0,Working,Secondary,Married,House,1,0,0,0,Core staff,2,1,3.6,43.0
+M,Y,N,0,112500.0,Working,Secondary,Civil marriage,House,1,0,1,0,,2,0,5.4,27.0
+F,N,N,1,360000.0,Commercial associate,Higher education,Civil marriage,House,1,0,0,0,Sales staff,3,0,5.3,41.0
+F,N,Y,0,157500.0,Pensioner,Secondary,Married,House,1,0,0,0,,2,0,0.0,65.0
+M,Y,N,0,180000.0,Working,Secondary,Single,House,1,1,1,0,High skill tech staff,1,0,5.0,28.0
+M,N,Y,0,202500.0,Commercial associate,Secondary,Single,Rented apartment,1,0,0,0,,1,0,4.4,51.0
+F,N,N,0,76500.0,Pensioner,Secondary,Married,House,1,0,1,0,,2,0,0.0,56.0
+M,N,Y,0,202500.0,Working,Secondary,Single,House,1,0,0,0,Laborers,1,0,8.5,27.0
+F,N,Y,0,225000.0,State servant,Secondary,Married,House,1,0,0,0,Private service staff,2,0,6.4,54.0
+F,N,Y,0,270000.0,Working,Secondary,Single,House,1,0,0,0,Core staff,1,0,2.5,35.0
+F,N,Y,2,,Working,Secondary,Single,House,1,0,0,0,,3,0,4.1,40.0
+F,N,Y,0,270000.0,Pensioner,Higher education,Married,House,1,0,0,0,,2,0,0.0,57.0
+F,N,Y,0,112500.0,Pensioner,Higher education,Married,House,1,0,0,0,,2,0,0.0,60.0
+M,Y,N,1,495000.0,Working,Secondary,Married,House,1,0,1,0,Laborers,3,0,0.6,28.0
+F,Y,N,0,315000.0,Commercial associate,Higher education,Married,House,1,1,1,0,,2,1,1.6,
+F,Y,N,0,315000.0,Commercial associate,Higher education,Married,House,1,1,1,0,,2,1,1.6,37.0
+F,N,Y,0,166500.0,State servant,Higher education,Married,House,1,0,0,0,,2,0,36.7,65.0
+F,Y,Y,1,135000.0,Commercial associate,Higher education,Married,House,1,0,0,0,Private service staff,3,0,7.9,42.0
+M,N,Y,1,112500.0,Working,Higher education,Married,House,1,1,1,0,,3,0,15.0,37.0
+F,N,Y,0,247500.0,Working,Secondary,Married,House,1,1,1,0,Laborers,2,0,7.0,31.0
+F,Y,Y,1,126000.0,Working,Higher education,Married,House,1,0,0,0,,3,0,0.4,26.0
+F,N,Y,0,,Commercial associate,Secondary,Married,House,1,0,0,0,Cleaning staff,2,0,4.0,53.0
+M,Y,N,0,315000.0,Working,Secondary,Married,House,1,1,1,0,Drivers,2,0,13.9,46.0
+F,N,Y,0,,Pensioner,Secondary,Married,House,1,0,1,0,,2,1,0.0,60.0
+M,Y,Y,0,450000.0,Commercial associate,Secondary,Married,House,1,0,1,1,Drivers,2,0,2.5,50.0
+F,N,Y,0,76500.0,Pensioner,Secondary,Married,Municipal apartment,1,0,0,0,,2,0,0.0,56.0
+M,N,Y,0,360000.0,Commercial associate,Secondary,Married,House,1,0,0,0,Managers,2,0,11.1,34.0
+F,Y,Y,0,225000.0,Commercial associate,Secondary,Single,House,1,0,1,0,High skill tech staff,1,0,3.9,33.0
+M,N,Y,0,135000.0,Working,Secondary,Single,With parents,1,0,0,0,Drivers,1,0,2.9,31.0
+M,N,Y,0,157500.0,Working,Higher education,Married,House,1,1,0,0,Laborers,2,0,11.7,38.0
+F,N,Y,0,81000.0,Working,Secondary,Single,House,1,0,1,0,,1,0,6.7,53.0
+F,N,Y,2,153000.0,Commercial associate,Higher education,Married,House,1,0,0,0,Accountants,4,0,3.6,36.0
+M,Y,N,0,81000.0,Working,Secondary,Married,House,1,1,1,0,Laborers,2,0,8.9,48.0
+F,Y,Y,0,225000.0,Pensioner,Secondary,Married,House,1,0,0,0,,2,0,0.0,59.0
+F,Y,Y,0,540000.0,Commercial associate,Higher education,Married,House,1,0,1,0,,2,1,0.5,43.0
+M,N,Y,0,135000.0,Pensioner,Secondary,Married,House,1,0,0,0,,2,0,0.0,64.0
+F,Y,Y,2,315000.0,State servant,Secondary,Married,House,1,0,0,0,Managers,4,0,3.3,34.0
+M,Y,N,1,180000.0,Commercial associate,Secondary,Married,House,1,0,0,0,Laborers,3,1,3.2,30.0
+M,N,Y,0,225000.0,Pensioner,Secondary,Widow,House,1,0,0,0,,1,1,0.0,63.0
+F,N,Y,1,90000.0,Commercial associate,Secondary,Married,House,1,0,1,0,Private service staff,3,0,5.4,28.0
+F,N,Y,0,103500.0,Working,Secondary,Married,House,1,0,0,1,IT staff,2,1,1.5,28.0
+F,Y,N,0,202500.0,Commercial associate,Secondary,Married,Municipal apartment,1,0,1,0,Accountants,2,0,3.1,58.0
+F,N,Y,2,144000.0,Working,Secondary,Married,House,1,1,1,0,Private service staff,4,0,7.7,39.0
+M,Y,Y,0,126000.0,Working,Higher education,Single,House,1,1,0,0,Managers,1,1,2.4,40.0
+M,N,N,0,157500.0,Working,Secondary,Married,House,1,0,1,0,Managers,2,0,9.9,48.0
+M,Y,Y,1,450000.0,Commercial associate,Secondary,Married,House,1,0,1,1,Core staff,3,0,1.9,50.0
+M,N,Y,0,72900.0,Pensioner,Lower secondary,Married,House,1,0,0,0,,2,1,0.0,64.0
+F,N,Y,2,67500.0,Working,Secondary,Married,House,1,0,0,0,Sales staff,4,0,1.6,33.0
+F,Y,Y,1,180000.0,Working,Higher education,Separated,House,1,0,0,0,Managers,2,0,16.4,52.0
+F,N,Y,1,157500.0,Pensioner,Secondary,Single,House,1,0,1,0,Low-skill Laborers,3,1,6.2,42.0
+F,N,Y,1,157500.0,Working,Secondary,Separated,Municipal apartment,1,0,0,0,Sales staff,2,0,1.7,37.0
+F,N,Y,0,112500.0,Working,Secondary,Separated,House,1,1,0,0,Cleaning staff,1,0,5.8,54.0
+F,N,N,0,90000.0,Working,Secondary,Civil marriage,House,1,1,0,0,Waiters/barmen staff,2,0,9.1,32.0
+F,N,Y,0,306000.0,Commercial associate,Higher education,Married,House,1,1,1,1,,2,0,9.4,41.0
+M,Y,Y,1,148500.0,Working,Secondary,Married,House,1,0,0,0,Laborers,3,0,14.2,41.0
+F,Y,N,0,225000.0,Commercial associate,Secondary,Married,House,1,0,0,0,Sales staff,2,0,1.4,38.0
+M,Y,Y,2,112500.0,Working,Secondary,Married,House,1,0,0,0,Laborers,4,0,2.5,33.0
+F,N,Y,0,225000.0,Working,Secondary,Widow,House,1,0,0,0,Sales staff,1,0,5.6,53.0
+M,N,Y,1,135000.0,Working,Secondary,Married,House,1,0,0,0,Laborers,3,0,1.8,32.0
+F,N,Y,0,103500.0,Pensioner,Secondary,Widow,House,1,0,0,0,,1,0,0.0,65.0
+F,N,N,0,112500.0,Pensioner,Secondary,Married,House,1,0,0,0,,2,0,0.0,58.0
+M,N,Y,1,135000.0,Working,Secondary,Married,House,1,1,1,0,Laborers,3,0,4.0,51.0
+M,N,N,0,112500.0,Pensioner,Secondary,Married,House,1,0,1,0,,2,0,0.0,63.0
+F,N,N,0,99000.0,Working,Higher education,Married,House,1,0,0,0,,2,0,15.1,40.0
+M,N,N,1,157500.0,Working,Secondary,Married,House,1,0,0,0,Drivers,3,1,4.0,45.0
+M,Y,N,0,90000.0,Working,Secondary,Single,House,1,1,0,0,Laborers,1,0,3.0,23.0
+M,Y,Y,0,315000.0,Commercial associate,Higher education,Married,House,1,0,0,0,Managers,2,1,3.5,51.0
+F,N,N,0,135000.0,State servant,Secondary,Single,House,1,0,0,0,Core staff,1,0,4.4,42.0
+M,Y,Y,0,180000.0,State servant,Higher education,Single,House,1,0,0,1,,1,0,2.4,22.0
+M,N,Y,0,126000.0,Pensioner,Secondary,Married,Rented apartment,1,0,0,0,,2,0,0.0,45.0
+F,N,Y,0,112500.0,Commercial associate,Secondary,Single,House,1,1,0,0,Sales staff,1,0,17.2,35.0
+F,N,Y,0,270000.0,Commercial associate,Secondary,Single,House,1,0,0,0,Accountants,1,0,6.5,58.0
+F,N,Y,1,135000.0,Commercial associate,Higher education,Married,House,1,1,0,1,Core staff,3,0,8.0,27.0
+F,N,Y,0,135000.0,State servant,Secondary,Married,House,1,0,1,0,Core staff,2,0,25.8,56.0
+F,Y,N,0,153000.0,Pensioner,Secondary,Widow,House,1,0,1,0,,1,0,0.0,65.0
+F,N,N,1,112500.0,Commercial associate,Higher education,Married,With parents,1,0,0,0,Core staff,3,0,9.0,34.0
+F,N,Y,0,112500.0,Pensioner,Secondary,Single,House,1,0,0,0,,1,0,0.0,66.0
+F,N,Y,0,135000.0,Working,Secondary,Married,House,1,1,1,0,Core staff,2,0,2.1,36.0
+F,N,N,0,67500.0,Pensioner,Secondary,Widow,House,1,0,1,0,,1,1,0.0,64.0
+M,N,Y,0,85500.0,State servant,Secondary,Separated,Co-op apartment,1,1,1,0,Core staff,1,0,23.9,45.0
+F,N,Y,0,225000.0,Pensioner,Secondary,Single,House,1,0,0,0,,1,1,0.0,64.0
+M,Y,N,0,157500.0,Commercial associate,Secondary,Married,House,1,0,0,0,Laborers,2,0,13.6,53.0
+F,N,N,0,135000.0,Working,Secondary,Married,House,1,0,1,0,,2,0,5.1,39.0
+M,N,Y,0,445500.0,Commercial associate,Higher education,Separated,House,1,0,0,0,,1,0,6.8,53.0
+M,Y,N,0,225000.0,Working,Secondary,Single,House,1,0,0,0,Core staff,1,0,0.8,25.0
+M,Y,N,1,135000.0,Working,Secondary,Married,House,1,0,0,0,Laborers,3,1,2.4,26.0
+M,Y,N,0,198000.0,Commercial associate,Higher education,Married,House,1,0,0,0,Managers,2,0,8.1,37.0
+M,N,N,0,391500.0,Working,Secondary,Single,Municipal apartment,1,0,0,0,Sales staff,1,1,1.4,25.0
+F,N,N,1,112500.0,Working,Secondary,Married,House,1,0,0,1,Laborers,3,0,3.4,35.0
+M,N,Y,0,445500.0,Commercial associate,Higher education,Separated,House,1,0,0,0,,1,0,6.8,53.0
+M,N,N,0,225000.0,Commercial associate,Higher education,Married,With parents,1,1,0,0,Managers,2,0,13.9,36.0
+F,N,Y,0,112500.0,Working,Higher education,Married,House,1,1,0,0,Core staff,2,0,2.2,31.0
+F,N,Y,0,148500.0,Pensioner,Secondary,Married,House,1,0,0,0,,2,1,0.0,57.0
+F,N,N,0,112500.0,Pensioner,Secondary,Married,Municipal apartment,1,0,0,0,,2,1,0.0,59.0
+F,Y,Y,1,270000.0,Working,Higher education,Separated,House,1,0,1,0,Sales staff,2,1,0.4,38.0
+M,N,N,0,360000.0,Commercial associate,Higher education,Married,House,1,0,1,0,Managers,2,0,5.0,56.0
+M,Y,N,0,180000.0,Working,Secondary,Single,House,1,0,0,0,Laborers,1,1,1.7,45.0
+M,Y,Y,2,225000.0,Working,Secondary,Married,House,1,1,0,0,Laborers,4,0,0.8,34.0
+M,Y,Y,0,157500.0,Working,Secondary,Married,House,1,1,1,0,Drivers,2,0,6.8,31.0
+F,N,N,0,90000.0,Pensioner,Secondary,Single,Municipal apartment,1,0,0,0,,1,0,0.0,55.0
+F,Y,Y,0,45900.0,Pensioner,Secondary,Widow,House,1,0,1,0,,1,0,0.0,56.0
+F,N,Y,0,135000.0,Working,Secondary,Married,House,1,0,0,0,Security staff,2,1,4.8,56.0
+F,Y,Y,2,157500.0,Commercial associate,Higher education,Married,House,1,0,1,0,Medicine staff,4,0,17.4,37.0
+F,N,N,0,54000.0,Pensioner,Secondary,Single,House,1,0,0,0,,1,0,0.0,55.0
+M,Y,Y,0,157500.0,Commercial associate,Secondary,Married,House,1,0,0,0,Laborers,2,0,18.8,56.0
+M,N,Y,0,180000.0,Working,Secondary,Married,House,1,1,0,0,Laborers,2,0,2.3,44.0
+F,N,Y,0,167400.0,Pensioner,Secondary,Married,House,1,0,0,0,,2,0,0.0,52.0
+M,Y,Y,0,135000.0,Working,Secondary,Married,House,1,0,0,0,Laborers,2,1,0.6,29.0
+F,N,N,0,180000.0,Working,Incomplete higher,Widow,House,1,1,1,0,Core staff,1,0,5.2,54.0
+M,Y,N,1,202500.0,Commercial associate,Incomplete higher,Married,House,1,0,0,0,Laborers,3,0,10.3,30.0
+M,N,Y,0,337500.0,Working,Secondary,Single,House,1,0,0,0,High skill tech staff,1,0,3.5,46.0
+M,N,Y,2,270000.0,Working,Secondary,Married,House,1,0,0,0,Security staff,4,0,9.9,34.0
+M,Y,N,0,157500.0,Working,Higher education,Married,House,1,0,1,0,Laborers,2,0,6.2,56.0
+F,N,N,0,135000.0,Working,Secondary,Widow,Co-op apartment,1,0,0,0,Core staff,1,1,1.6,55.0
+M,Y,N,0,247500.0,Commercial associate,Secondary,Married,House,1,0,0,0,Drivers,2,0,3.6,48.0
+F,N,Y,1,67500.0,Commercial associate,Higher education,Married,House,1,0,0,1,Waiters/barmen staff,3,1,4.3,25.0
+F,N,N,0,135000.0,Working,Secondary,Married,House,1,0,1,0,,2,0,5.1,39.0
+F,N,Y,0,67500.0,Pensioner,Lower secondary,Single,House,1,0,0,0,,1,0,0.0,61.0
+M,Y,N,2,247500.0,Working,Secondary,Married,House,1,1,0,0,Laborers,4,0,15.5,50.0
+F,N,N,0,225000.0,Commercial associate,Secondary,Married,House,1,0,0,0,Laborers,2,0,4.6,28.0
+F,N,Y,0,360000.0,Commercial associate,Secondary,Single,House,1,0,0,0,Accountants,1,0,6.7,51.0
+F,N,Y,0,270000.0,Working,Higher education,Married,House,1,0,0,1,Laborers,2,0,0.5,25.0
+F,N,N,0,67500.0,Working,Secondary,Married,Municipal apartment,1,0,0,0,Cooking staff,2,0,31.4,50.0
+M,Y,Y,1,225000.0,State servant,Secondary,Married,House,1,1,0,0,Laborers,3,0,10.8,32.0
+F,Y,Y,1,333000.0,Commercial associate,Higher education,Married,House,1,0,0,0,Managers,3,0,4.4,32.0
+M,Y,Y,1,495000.0,Commercial associate,Secondary,Married,House,1,0,1,0,Managers,3,0,3.3,
+F,N,Y,0,157500.0,Working,Secondary,Married,House,1,0,0,0,,2,0,6.9,42.0
+F,N,Y,0,76500.0,Pensioner,Secondary,Married,House,1,0,0,0,,2,0,0.0,
+F,N,N,0,157500.0,Working,Higher education,Married,House,1,0,0,0,Managers,2,0,0.9,32.0
+M,Y,Y,0,180000.0,Commercial associate,Secondary,Married,House,1,0,0,0,Drivers,2,0,4.6,58.0
+F,N,N,0,198000.0,Pensioner,Secondary,Widow,House,1,0,1,0,,1,0,0.0,60.0
+F,N,Y,0,202500.0,Working,Secondary,Married,House,1,0,0,0,Core staff,2,1,9.4,40.0
+F,N,N,0,135000.0,Working,Secondary,Married,House,1,0,0,0,Sales staff,2,0,1.8,42.0
+F,N,Y,1,225000.0,Working,Secondary,Single,House,1,0,1,0,Private service staff,2,0,9.1,41.0
+F,N,N,0,76500.0,Working,Secondary,Married,House,1,1,0,0,,2,0,0.3,46.0
+F,N,Y,0,360000.0,Commercial associate,Higher education,Married,House,1,0,1,0,Core staff,2,0,10.7,30.0
+F,Y,N,1,112500.0,Working,Higher education,Single,House,1,0,0,0,Core staff,2,0,4.4,27.0
+M,N,Y,0,65250.0,Pensioner,Higher education,Married,House,1,0,0,0,,2,1,0.0,57.0
+M,N,Y,1,126000.0,Commercial associate,Secondary,Civil marriage,House,1,0,0,0,,3,1,5.8,35.0
+F,N,Y,0,135000.0,Working,Secondary,Widow,House,1,0,1,0,Managers,1,0,2.5,39.0
+F,Y,N,1,135000.0,Working,Secondary,Married,House,1,1,0,0,Sales staff,3,1,1.1,44.0
+F,N,Y,2,180000.0,Commercial associate,Secondary,Married,House,1,0,0,0,Core staff,4,0,10.8,35.0
+F,Y,Y,0,112500.0,Working,Secondary,Married,House,1,0,0,0,Sales staff,2,0,4.9,47.0
+F,Y,Y,1,261000.0,State servant,Higher education,Married,House,1,0,0,0,Managers,3,0,4.5,41.0
+M,Y,Y,2,157500.0,Commercial associate,Higher education,Married,With parents,1,0,0,0,Drivers,4,0,1.7,39.0
+M,N,N,0,202500.0,Working,Secondary,Separated,House,1,0,0,0,Laborers,1,0,17.4,39.0
+M,Y,Y,0,135000.0,Working,Higher education,Civil marriage,House,1,1,1,0,Laborers,2,0,1.8,53.0
+F,N,N,0,67500.0,Pensioner,Secondary,Separated,House,1,0,0,0,,1,0,0.0,59.0
+M,Y,Y,0,270000.0,Commercial associate,Secondary,Married,House,1,0,0,0,Drivers,2,0,4.2,50.0
+F,N,Y,0,112500.0,Commercial associate,Higher education,Married,House,1,1,1,0,,2,0,3.3,48.0
+M,Y,Y,0,202500.0,Commercial associate,Higher education,Married,House,1,0,0,0,Drivers,2,0,4.0,42.0
+F,Y,Y,0,202500.0,Working,Higher education,Married,House,1,0,0,0,High skill tech staff,2,1,10.9,42.0
+F,Y,Y,0,256500.0,Commercial associate,Higher education,Single,House,1,1,0,0,Accountants,2,1,4.7,31.0
+F,N,N,2,193500.0,Working,Higher education,Married,With parents,1,1,1,0,,4,0,20.9,41.0
+,Y,Y,0,360000.0,State servant,Higher education,Separated,House,1,0,0,0,Core staff,1,1,5.2,53.0
+F,Y,Y,0,202500.0,Working,Higher education,Widow,House,1,0,0,0,Managers,1,0,4.1,33.0
+F,N,N,0,198000.0,Pensioner,Secondary,Widow,House,1,0,1,0,,1,0,0.0,60.0
+F,N,N,0,225000.0,State servant,Secondary,Married,House,1,0,0,0,Managers,2,0,8.1,37.0
+F,N,N,0,270000.0,Working,Secondary,Married,House,1,1,0,0,Managers,2,0,2.0,46.0
+F,N,Y,0,225000.0,Working,Higher education,Single,House,1,0,1,0,Managers,1,0,7.1,33.0
+F,N,Y,2,90000.0,Working,Secondary,Married,House,1,0,0,0,,4,0,2.0,32.0
+F,Y,Y,0,270000.0,Working,Secondary,Separated,House,1,0,0,0,,1,0,1.0,46.0
+F,N,Y,0,103500.0,Working,Secondary,Single,House,1,0,0,0,Sales staff,1,0,5.8,48.0
+F,N,Y,2,315000.0,Commercial associate,Higher education,Married,House,1,0,1,0,Managers,4,0,0.5,30.0
+M,Y,Y,0,450000.0,Pensioner,Higher education,Married,House,1,0,0,0,,2,0,0.0,64.0
+F,N,N,0,112500.0,Working,Secondary,Separated,House,1,0,0,0,Core staff,1,0,0.5,34.0
+F,N,Y,1,180000.0,Commercial associate,Secondary,Married,House,1,0,1,0,Laborers,3,0,16.6,44.0
+F,Y,Y,0,360000.0,Commercial associate,Secondary,Married,House,1,0,0,0,Sales staff,2,0,9.7,52.0
+M,N,N,0,225000.0,Working,Higher education,Single,House,1,1,0,0,,1,0,4.9,28.0
+F,N,Y,1,270000.0,Working,Secondary,Married,House,1,0,0,0,Core staff,3,0,10.1,57.0
+F,N,N,3,171000.0,Working,Secondary,Married,House,1,1,1,0,High skill tech staff,5,0,9.6,38.0
+F,N,Y,0,121500.0,Working,Secondary,Married,House,1,0,0,0,Managers,2,1,22.4,52.0
+F,N,Y,1,337500.0,Working,Secondary,Civil marriage,House,1,1,1,0,Laborers,3,0,12.9,49.0
+M,Y,Y,0,247500.0,State servant,Secondary,Civil marriage,House,1,0,0,0,High skill tech staff,2,0,4.8,33.0
+M,Y,Y,0,337500.0,Working,Higher education,Married,House,1,0,0,0,Laborers,2,0,20.5,65.0
+F,N,N,0,351000.0,Commercial associate,Higher education,Married,House,1,0,1,0,,2,0,3.0,59.0
+F,N,Y,0,306000.0,Commercial associate,Higher education,Married,House,1,1,1,1,,2,0,9.4,41.0
+F,N,N,0,270000.0,State servant,Secondary,Separated,House,1,0,1,1,Medicine staff,1,0,33.8,53.0
+F,N,N,2,180000.0,Working,Secondary,Married,House,1,0,0,0,,4,1,22.9,46.0
+M,Y,N,0,292500.0,Commercial associate,Secondary,Married,House,1,0,0,0,,2,0,7.5,57.0
+F,N,Y,0,135000.0,Working,Secondary,Widow,House,1,0,0,0,High skill tech staff,1,0,25.9,60.0
+F,N,Y,0,90000.0,Pensioner,Secondary,Civil marriage,House,1,0,0,0,,2,0,0.0,64.0
+F,N,Y,2,225000.0,Working,Higher education,Married,House,1,1,1,0,Accountants,4,0,4.5,
+M,Y,N,0,202500.0,Working,Secondary,Married,House,1,0,1,0,Drivers,2,0,13.9,43.0
+F,N,Y,0,67050.0,Pensioner,Higher education,Married,House,1,0,0,0,,2,0,0.0,67.0
+M,N,Y,0,112500.0,Commercial associate,Higher education,Married,House,1,0,0,0,Security staff,2,1,1.5,55.0
+M,Y,Y,3,202500.0,Working,Secondary,Married,House,1,0,1,0,,5,0,10.0,36.0
+M,N,Y,0,85500.0,State servant,Secondary,Separated,Co-op apartment,1,1,1,0,Core staff,1,0,23.9,45.0
+F,N,N,0,45000.0,State servant,Secondary,Married,House,1,1,1,0,Medicine staff,2,0,14.6,38.0
+F,N,Y,0,202500.0,Working,Secondary,Single,House,1,0,0,0,Core staff,2,1,9.4,40.0
+F,N,Y,1,67500.0,State servant,Secondary,Civil marriage,House,1,0,0,0,,3,0,0.5,49.0
+F,N,Y,0,157500.0,Working,Secondary,Single,House,1,0,0,0,Secretaries,1,0,3.3,30.0
+M,Y,N,0,180000.0,Commercial associate,Secondary,Married,Municipal apartment,1,1,0,0,,2,0,8.2,27.0
+F,N,Y,0,274500.0,Commercial associate,Secondary,Married,House,1,0,0,0,High skill tech staff,2,0,19.0,56.0
+M,N,Y,1,135000.0,Working,Higher education,Married,House,1,1,1,0,High skill tech staff,3,0,5.5,26.0
+M,Y,Y,1,450000.0,Pensioner,Secondary,Married,House,1,0,1,1,Core staff,3,1,1.9,50.0
+F,Y,Y,2,135000.0,State servant,Secondary,Married,House,1,1,0,0,Core staff,4,0,16.7,40.0
+M,Y,Y,0,135000.0,Working,Secondary,Married,House,1,1,0,0,Laborers,2,0,21.4,53.0
+M,Y,Y,0,112500.0,Working,Secondary,Married,House,1,1,0,0,,2,0,1.4,50.0
+F,N,Y,0,157500.0,Working,Secondary,Married,House,1,0,0,0,Laborers,2,0,4.9,57.0
+F,Y,Y,0,112500.0,Pensioner,Secondary,Married,House,1,0,0,0,,2,0,0.0,57.0
+M,Y,Y,0,180000.0,Working,Secondary,Married,House,1,0,0,0,,2,0,8.9,54.0
+F,Y,Y,2,180000.0,Commercial associate,Higher education,Married,House,1,0,1,1,,4,0,7.9,32.0
+F,N,N,0,180000.0,State servant,Incomplete higher,Married,House,1,0,0,0,Core staff,2,0,8.2,28.0
+F,N,Y,0,787500.0,State servant,Higher education,Married,House,1,0,0,1,Managers,2,0,3.9,47.0
+F,Y,N,0,135000.0,Working,Secondary,Married,House,1,1,1,0,Cleaning staff,2,0,18.5,52.0
+F,N,Y,1,270000.0,State servant,Secondary,Married,House,1,0,0,0,Medicine staff,3,0,6.9,39.0
+F,N,N,0,135000.0,Working,Secondary,Married,House,1,0,1,0,Sales staff,2,0,1.4,31.0
+F,N,N,0,112500.0,Commercial associate,Secondary,Married,House,1,0,0,0,High skill tech staff,2,0,2.2,54.0
+F,N,Y,1,337500.0,Working,Secondary,Married,House,1,0,0,1,Core staff,3,0,9.1,35.0
+M,N,Y,0,112500.0,Commercial associate,Higher education,Married,House,1,0,0,0,Security staff,2,1,1.5,55.0
+M,N,N,0,202500.0,Working,Secondary,Single,House,1,1,0,0,Laborers,1,0,22.7,42.0
+F,N,Y,0,,Commercial associate,Higher education,Married,House,1,0,0,0,Managers,2,0,6.0,33.0
+M,Y,Y,0,225000.0,Working,Secondary,Married,House,1,0,0,0,Laborers,2,0,8.2,53.0
+F,N,N,0,292500.0,Commercial associate,Secondary,Civil marriage,House,1,0,0,0,Laborers,2,0,29.5,51.0
+M,Y,Y,0,247500.0,State servant,Secondary,Civil marriage,House,1,0,0,0,High skill tech staff,2,0,4.8,33.0
+F,Y,N,0,315000.0,Commercial associate,Higher education,Married,House,1,0,1,0,Accountants,2,0,4.6,53.0
+M,Y,Y,1,157500.0,Working,Secondary,Married,House,1,0,0,0,Laborers,3,0,6.2,
+F,N,Y,0,180000.0,Commercial associate,Higher education,Civil marriage,House,1,0,1,1,Sales staff,2,0,0.9,35.0
+F,Y,N,1,108000.0,Commercial associate,Higher education,Married,House,1,1,0,0,Sales staff,3,0,1.2,44.0
+M,N,Y,0,225000.0,Commercial associate,Secondary,Married,House,1,0,0,0,,2,0,9.7,32.0
+F,N,N,0,67500.0,Working,Secondary,Married,House,1,0,0,0,Sales staff,2,0,5.1,27.0
+F,N,Y,2,67500.0,Working,Secondary,Separated,House,1,1,0,0,Sales staff,3,0,8.2,38.0
+M,Y,Y,0,189000.0,Pensioner,Secondary,Separated,House,1,0,0,0,,1,0,0.0,55.0
+M,Y,Y,1,270000.0,Pensioner,Secondary,Married,House,1,0,0,0,,3,0,0.0,42.0
+F,Y,Y,1,144000.0,Working,Higher education,Married,House,1,0,0,0,Accountants,3,0,8.0,35.0
+F,N,N,0,180000.0,Pensioner,Secondary,Married,House,1,0,0,0,,2,1,0.0,61.0
+F,N,Y,0,,Pensioner,Secondary,Married,House,1,0,1,0,,2,0,0.0,64.0
+F,N,Y,0,207000.0,Working,Secondary,Single,House,1,0,0,0,Cooking staff,1,0,6.9,51.0
+F,N,N,2,73350.0,Working,Secondary,Married,House,1,0,0,0,Medicine staff,4,0,19.4,39.0
+F,N,Y,1,270000.0,Working,Secondary,Married,House,1,0,0,0,Core staff,3,0,10.1,57.0
+F,Y,N,0,193500.0,Working,Secondary,Married,House,1,0,0,0,,2,0,24.6,57.0
+F,N,N,2,130500.0,Working,Secondary,Married,House,1,0,0,0,Sales staff,4,0,9.5,42.0
+F,N,Y,0,225000.0,Pensioner,Secondary,Separated,House,1,0,1,0,,1,0,0.0,57.0
+M,Y,N,0,315000.0,Working,Higher education,Married,House,1,1,0,0,,2,0,10.9,56.0
+F,Y,N,0,450000.0,Pensioner,Higher education,Married,House,1,1,1,0,Managers,2,0,15.1,54.0
+M,Y,Y,2,216000.0,State servant,Higher education,Married,House,1,0,0,0,High skill tech staff,4,0,7.0,30.0
+F,Y,N,0,121500.0,Pensioner,Secondary,Single,House,1,0,0,0,,1,0,0.0,64.0
+F,N,N,0,175500.0,Working,Secondary,Single,House,1,0,0,0,High skill tech staff,1,0,1.8,51.0
+M,Y,Y,0,270000.0,Working,Secondary,Single,House,1,0,0,0,Laborers,1,0,4.3,38.0
+F,N,N,1,76500.0,Working,Secondary,Married,House,1,1,0,0,Sales staff,3,0,2.0,28.0
+F,N,Y,0,90000.0,Pensioner,Secondary,Married,House,1,0,0,0,,2,0,0.0,60.0
+M,Y,N,0,225000.0,Commercial associate,Secondary,Married,House,1,0,0,0,Laborers,2,0,6.8,49.0
+F,N,Y,2,135000.0,Commercial associate,Lower secondary,Civil marriage,With parents,1,1,0,0,Sales staff,4,1,5.1,27.0
+F,N,Y,0,135000.0,Working,Secondary,Civil marriage,House,1,0,0,1,Managers,2,0,26.6,45.0
+M,Y,Y,1,360000.0,Working,Secondary,Married,House,1,0,1,0,Laborers,3,0,8.0,58.0
+M,Y,Y,0,157500.0,Commercial associate,Secondary,Single,Municipal apartment,1,1,0,0,Laborers,1,0,5.8,27.0
+F,N,N,1,112500.0,State servant,Secondary,Single,House,1,0,0,0,Core staff,2,0,20.8,44.0
+M,Y,Y,0,450000.0,Commercial associate,Higher education,Single,House,1,0,0,1,Sales staff,1,0,1.6,30.0
+F,N,Y,0,135000.0,Working,Secondary,Single,House,1,1,0,0,Laborers,1,0,5.2,48.0
+M,Y,Y,0,202500.0,State servant,Secondary,Married,House,1,0,0,0,Core staff,2,0,6.0,40.0
+F,N,N,0,292500.0,Commercial associate,Secondary,Civil marriage,House,1,0,0,0,Laborers,2,0,29.5,51.0
+F,Y,Y,0,112500.0,Working,Secondary,Married,House,1,0,0,0,Sales staff,2,0,4.9,47.0
+F,Y,N,0,216000.0,Working,Secondary,Single,House,1,1,1,0,,1,0,27.2,54.0
+F,Y,Y,0,225000.0,Working,Higher education,Married,House,1,0,0,0,Core staff,2,0,10.2,34.0
+F,Y,N,0,90000.0,Working,Higher education,Single,House,1,1,1,0,Core staff,1,0,15.0,44.0
+F,Y,N,0,95850.0,Commercial associate,Secondary,Married,House,1,1,0,0,Laborers,2,0,18.3,52.0
+M,Y,Y,0,247500.0,State servant,Secondary,Married,Municipal apartment,1,1,0,1,High skill tech staff,2,0,2.4,55.0
+F,Y,N,1,405000.0,Working,Secondary,Married,Rented apartment,1,1,1,1,Core staff,3,0,4.6,38.0
+F,Y,N,1,202500.0,Working,Higher education,Married,Rented apartment,1,0,0,0,Laborers,3,1,7.9,26.0
+F,N,Y,0,135000.0,State servant,Higher education,Single,Municipal apartment,1,0,0,0,Core staff,1,1,5.3,29.0
+F,N,N,1,180000.0,State servant,Higher education,Married,House,1,1,1,1,Core staff,3,0,6.8,39.0
+M,Y,Y,0,247500.0,Working,Secondary,Married,House,1,1,1,0,Drivers,2,0,3.5,42.0
+F,Y,Y,0,94500.0,Working,Secondary,Married,House,1,0,0,0,High skill tech staff,2,0,28.4,50.0
+F,N,Y,0,112500.0,Working,Secondary,Married,House,1,0,1,0,Managers,2,0,6.8,40.0
+F,Y,Y,1,225000.0,Commercial associate,Secondary,Married,House,1,0,0,0,Sales staff,3,0,8.9,37.0
+M,Y,Y,1,180000.0,Commercial associate,Secondary,Married,House,1,0,0,0,Drivers,3,0,0.3,27.0
+F,N,Y,2,54000.0,Working,Secondary,Married,House,1,0,0,0,Sales staff,4,0,2.2,27.0
+F,N,N,0,112500.0,Pensioner,Secondary,Single,Municipal apartment,1,0,0,0,,2,1,0.0,59.0
+F,N,N,0,112500.0,Working,Higher education,Single,Co-op apartment,1,1,1,0,Core staff,1,0,1.5,35.0
+F,N,Y,1,157500.0,Working,Secondary,Married,House,1,0,1,0,,3,0,4.7,29.0
+F,N,Y,0,202500.0,Commercial associate,Higher education,Married,House,1,0,0,0,,2,0,0.6,26.0
+F,N,Y,0,202500.0,Working,Secondary,Civil marriage,House,1,0,0,0,Core staff,2,0,5.4,30.0
+M,Y,N,0,157500.0,Working,Incomplete higher,Married,With parents,1,1,0,0,Drivers,2,0,2.6,25.0
+F,N,Y,0,180000.0,Pensioner,Secondary,Married,House,1,0,0,0,,2,0,0.0,64.0
+F,Y,Y,2,157500.0,Commercial associate,Higher education,Married,House,1,0,1,0,Medicine staff,4,0,17.4,37.0
+F,N,N,0,135000.0,Working,Secondary,Married,House,1,0,0,0,Private service staff,2,0,4.3,30.0
+F,N,N,2,144000.0,Working,Secondary,Married,House,1,0,0,0,Medicine staff,4,0,13.7,47.0
+F,N,Y,0,135000.0,Working,Secondary,Married,House,1,0,0,0,Cleaning staff,2,0,14.2,50.0
+M,Y,N,0,157500.0,Working,Secondary,Married,House,1,0,0,0,Laborers,2,0,40.8,64.0
+F,Y,Y,0,180000.0,Commercial associate,Higher education,Civil marriage,House,1,0,0,0,Sales staff,2,0,10.4,39.0
+M,Y,Y,0,180000.0,Pensioner,Higher education,Married,House,1,0,0,0,,2,1,0.0,51.0
+F,N,Y,2,99000.0,Commercial associate,Higher education,Married,House,1,0,1,0,Accountants,4,0,1.2,35.0
+F,N,Y,0,243000.0,Commercial associate,Secondary,Married,With parents,1,0,0,0,Laborers,2,0,9.3,47.0
+F,N,N,0,202500.0,Working,Secondary,Married,With parents,1,1,1,0,Managers,2,0,0.9,35.0
+F,N,N,1,135000.0,Working,Higher education,Married,House,1,1,0,0,Core staff,3,0,4.1,29.0
+M,Y,N,0,270000.0,Working,Secondary,Civil marriage,House,1,1,1,0,Drivers,2,0,1.8,42.0
+F,N,Y,0,247500.0,Pensioner,Secondary,Single,House,1,0,0,0,,1,0,0.0,64.0
+M,N,Y,0,90000.0,Commercial associate,Secondary,Civil marriage,House,1,1,0,0,Low-skill Laborers,2,0,1.9,45.0
+M,Y,Y,0,225000.0,Working,Secondary,Married,House,1,0,0,0,Drivers,2,1,9.2,49.0
+M,N,N,0,180000.0,Working,Secondary,Single,With parents,1,0,0,0,Drivers,1,0,4.2,35.0
+F,N,Y,0,180000.0,Pensioner,Secondary,Married,House,1,0,0,0,,2,0,0.0,64.0
+F,N,Y,0,225000.0,Working,Secondary,Widow,House,1,1,0,0,High skill tech staff,1,0,6.5,54.0
+M,Y,Y,0,292500.0,Working,Secondary,Married,Rented apartment,1,0,0,0,,2,0,2.5,47.0
+M,Y,Y,0,315000.0,Working,Secondary,Married,House,1,0,0,0,Managers,2,1,6.6,48.0
+M,Y,Y,0,202500.0,Working,Secondary,Married,House,1,1,1,0,Drivers,2,0,2.0,36.0
+F,N,Y,0,,Pensioner,Secondary,Married,House,1,0,0,0,,2,1,0.0,62.0
+M,Y,Y,0,215100.0,Commercial associate,Secondary,Married,House,1,0,1,0,Laborers,2,1,3.5,53.0
+F,N,Y,0,202500.0,Working,Secondary,Married,House,1,0,0,1,High skill tech staff,2,0,22.9,42.0
+F,N,N,0,306000.0,Commercial associate,Higher education,Married,House,1,0,0,0,Managers,2,0,3.7,29.0
+M,Y,Y,0,112500.0,Working,Secondary,Single,House,1,0,0,0,,1,0,4.4,27.0
+M,Y,N,0,202500.0,Working,Secondary,Married,With parents,1,0,0,0,Laborers,2,1,3.8,38.0
+M,N,Y,0,225000.0,Commercial associate,Secondary,Single,House,1,0,0,1,Laborers,1,0,3.3,25.0
+F,N,Y,0,135000.0,Working,Secondary,Married,House,1,0,0,0,Laborers,2,0,5.8,48.0
+M,N,Y,0,135000.0,Pensioner,Secondary,Civil marriage,House,1,0,1,0,,2,0,0.0,63.0
+F,N,N,1,76500.0,Working,Higher education,Married,House,1,1,1,0,Sales staff,3,0,2.2,44.0
+F,N,Y,0,112500.0,Pensioner,Secondary,Married,House,1,0,0,0,,2,0,0.0,63.0
+F,Y,Y,1,225000.0,Commercial associate,Higher education,Married,House,1,0,0,0,Accountants,3,0,1.3,31.0
+M,Y,N,0,180000.0,Working,Secondary,Single,With parents,1,0,0,0,,1,0,1.5,23.0
+M,N,N,0,391500.0,Working,Secondary,Single,Municipal apartment,1,0,0,0,Sales staff,1,1,1.4,25.0
+M,Y,N,0,180000.0,Working,Higher education,Married,With parents,1,0,1,0,Core staff,2,0,6.1,32.0
+F,N,N,0,112500.0,Pensioner,Secondary,Married,Municipal apartment,1,0,0,0,,2,1,0.0,59.0
+M,N,Y,1,234000.0,Working,Secondary,Married,House,1,0,0,0,Laborers,3,0,4.8,33.0
+M,Y,Y,0,450000.0,Pensioner,Higher education,Married,House,1,0,0,0,,2,0,0.0,47.0
+M,Y,N,0,202500.0,State servant,Secondary,Married,House,1,1,1,0,Core staff,2,0,11.7,32.0
+F,N,Y,0,216000.0,Pensioner,Higher education,Single,House,1,0,0,0,,1,0,0.0,56.0
+F,N,N,1,135000.0,Working,Secondary,Married,House,1,1,1,0,Accountants,3,0,4.4,29.0
+F,N,Y,0,180000.0,Working,Secondary,Married,House,1,0,0,1,Sales staff,2,0,3.7,27.0
+F,N,Y,0,90000.0,Working,Secondary,Civil marriage,With parents,1,1,1,0,Sales staff,2,0,0.4,39.0
+F,N,Y,0,247500.0,Commercial associate,Higher education,Single,House,1,0,0,0,Core staff,1,0,37.6,59.0
+F,N,Y,0,180000.0,Working,Secondary,Civil marriage,House,1,0,0,0,Laborers,2,0,9.9,54.0
+F,Y,Y,1,270000.0,Working,Higher education,Separated,House,1,0,1,1,Sales staff,2,0,0.4,38.0
+F,N,N,0,81000.0,Working,Secondary,Single,House,1,1,1,0,Private service staff,1,0,1.0,49.0
+F,N,Y,1,225000.0,Commercial associate,Higher education,Married,House,1,0,0,0,Core staff,3,0,0.3,34.0
+F,N,N,1,202500.0,Working,Secondary,Married,House,1,0,0,0,Managers,3,0,9.4,33.0
+F,N,Y,1,108000.0,Working,Secondary,Married,House,1,1,1,0,Sales staff,3,1,3.1,35.0
+,N,Y,0,292500.0,Working,Secondary,Married,House,1,0,0,0,High skill tech staff,2,1,9.2,30.0
+F,N,Y,0,292500.0,Working,Higher education,Married,House,1,0,0,0,Core staff,2,0,13.2,58.0
+F,N,Y,0,135000.0,Pensioner,Secondary,Married,House,1,0,0,0,,2,0,0.0,59.0
+F,N,Y,3,135000.0,Working,Secondary,Married,House,1,0,0,0,Laborers,5,0,4.2,41.0
+F,N,Y,0,189000.0,Pensioner,Higher education,Separated,House,1,0,0,0,,1,0,0.0,62.0
+F,Y,N,0,67500.0,Working,Secondary,Married,House,1,1,0,0,,2,0,5.3,31.0
+M,Y,Y,0,360000.0,Pensioner,Secondary,Married,House,1,0,0,1,,2,0,0.0,57.0
+M,Y,N,1,450000.0,Working,Higher education,Married,House,1,0,1,1,Core staff,3,1,1.4,27.0
+M,Y,N,0,108000.0,Working,Secondary,Married,Office apartment,1,0,0,0,Security staff,2,1,3.0,47.0
+F,N,N,0,157500.0,Working,Secondary,Married,House,1,1,1,0,,2,0,27.0,54.0
+F,N,Y,0,157500.0,Commercial associate,Higher education,Married,House,1,0,1,1,Medicine staff,2,1,3.6,34.0
+F,N,N,0,157500.0,Working,Higher education,Separated,House,1,0,0,0,Medicine staff,1,0,8.2,47.0
+F,N,Y,0,126000.0,Pensioner,Secondary,Widow,House,1,0,0,0,,1,0,0.0,67.0
+M,Y,Y,0,,Working,Secondary,Single,House,1,1,0,0,,1,0,1.1,28.0
+M,N,Y,2,450000.0,Commercial associate,Higher education,Married,House,1,1,1,0,Managers,4,0,6.0,34.0
+F,N,Y,2,112500.0,Working,Incomplete higher,Married,House,1,0,0,0,Core staff,4,0,5.1,30.0
+F,N,Y,1,225000.0,Commercial associate,Higher education,Married,House,1,0,0,1,Managers,3,0,6.2,26.0
+F,N,Y,0,225000.0,Pensioner,Secondary,Married,Municipal apartment,1,0,1,0,,2,1,0.0,59.0
+F,N,Y,0,157500.0,Commercial associate,Secondary,Married,House,1,0,0,1,Sales staff,2,0,3.7,45.0
+M,Y,Y,0,585000.0,Commercial associate,Secondary,Married,With parents,1,0,0,0,Drivers,2,0,4.5,46.0
+M,Y,Y,0,225000.0,Working,Secondary,Married,House,1,1,0,0,Laborers,2,0,3.7,49.0
+F,Y,Y,2,135000.0,Working,Secondary,Married,House,1,0,0,0,Laborers,4,0,8.7,43.0
+F,Y,Y,0,148500.0,Commercial associate,Secondary,Married,Office apartment,1,0,0,0,Core staff,2,0,6.2,47.0
+F,N,Y,0,157500.0,Working,Secondary,Separated,House,1,0,0,0,Sales staff,1,0,4.2,51.0
+F,N,Y,0,225000.0,Working,Higher education,Married,House,1,1,1,0,Managers,2,0,8.1,44.0
+F,N,Y,0,135000.0,Working,Secondary,Married,House,1,0,0,0,Laborers,2,0,3.2,36.0
+M,Y,Y,0,,Working,Secondary,Single,House,1,0,0,0,Drivers,1,0,2.9,39.0
+M,N,Y,2,112500.0,Working,Secondary,Civil marriage,House,1,0,0,0,,4,0,6.3,39.0
+F,N,Y,0,135000.0,Commercial associate,Secondary,Married,House,1,0,0,0,Medicine staff,2,1,19.0,54.0
+M,Y,Y,0,450000.0,Commercial associate,Higher education,Single,House,1,0,0,1,Sales staff,1,0,1.6,30.0
+M,N,Y,2,112500.0,Working,Secondary,Married,House,1,0,0,0,Security staff,4,0,4.3,43.0
+F,N,N,0,202500.0,Working,Higher education,Civil marriage,House,1,1,1,0,Core staff,2,0,14.2,42.0
+M,Y,Y,0,135000.0,Working,Secondary,Married,House,1,0,1,0,Laborers,2,0,9.6,40.0
+M,Y,Y,0,405000.0,Working,Higher education,Married,House,1,1,1,1,Managers,2,0,7.2,28.0
+F,N,Y,0,360000.0,Pensioner,Higher education,Married,House,1,0,1,0,,2,0,0.0,63.0
+F,N,Y,0,112500.0,Working,Secondary,Married,House,1,0,0,0,High skill tech staff,2,0,1.9,50.0
+F,N,Y,0,171000.0,Working,Secondary,Single,House,1,0,1,0,Accountants,1,0,23.0,54.0
+F,Y,Y,0,99000.0,Working,Secondary,Married,House,1,0,0,0,,2,0,6.3,58.0
+M,N,N,1,135000.0,Working,Secondary,Married,House,1,0,0,0,Laborers,3,0,2.4,28.0
+M,Y,N,0,337500.0,Working,Secondary,Single,With parents,1,0,0,0,Core staff,1,0,9.1,31.0
+M,N,N,1,180000.0,Working,Secondary,Single,House,1,0,0,0,Laborers,2,1,0.4,35.0
+M,Y,N,1,225000.0,Working,Secondary,Married,House,1,1,1,0,High skill tech staff,3,0,19.9,42.0
+M,Y,Y,1,112500.0,Working,Secondary,Married,House,1,0,0,0,Laborers,3,0,1.4,31.0
+M,Y,N,0,225000.0,Commercial associate,Secondary,Married,House,1,0,0,0,Laborers,2,0,6.8,49.0
+F,N,Y,3,67500.0,Commercial associate,Secondary,Married,House,1,1,1,0,Sales staff,5,0,1.1,46.0
+F,N,Y,0,45000.0,Pensioner,Secondary,Married,House,1,0,1,0,,2,0,0.0,57.0
+F,N,Y,0,126000.0,Working,Secondary,Single,House,1,0,1,0,Cooking staff,1,0,7.9,46.0
+F,N,N,0,112500.0,Working,Secondary,Widow,With parents,1,1,1,0,Core staff,1,0,2.2,28.0
+F,N,Y,2,112500.0,Working,Secondary,Married,House,1,0,0,0,Laborers,4,0,6.5,36.0
+M,N,N,1,157500.0,Working,Secondary,Married,House,1,0,0,0,Drivers,1,1,4.0,45.0
+M,Y,N,3,360000.0,Commercial associate,Secondary,Married,House,1,0,0,0,Managers,5,0,4.6,42.0
+F,N,Y,0,193500.0,Working,Secondary,Married,House,1,0,1,0,,2,0,31.4,58.0
+M,Y,Y,0,67500.0,Pensioner,Secondary,Married,House,1,0,0,0,,2,0,0.0,63.0
+F,Y,Y,0,450000.0,Pensioner,Higher education,Widow,House,1,0,1,0,,1,0,0.0,61.0
+M,Y,Y,0,292500.0,Working,Higher education,Married,House,1,0,0,0,Drivers,2,1,2.2,58.0
+M,N,N,1,247500.0,Working,Secondary,Single,House,1,0,1,0,Laborers,2,0,18.0,46.0
+F,N,Y,0,72000.0,Pensioner,Secondary,Married,House,1,0,0,0,,2,0,0.0,60.0
+F,N,N,0,135000.0,Pensioner,Secondary,Widow,House,1,0,1,0,,1,0,0.0,58.0
+F,N,Y,0,157500.0,State servant,Secondary,Widow,House,1,0,1,0,Drivers,1,0,5.6,63.0
+F,N,Y,1,126000.0,Working,Higher education,Married,House,1,1,1,1,Sales staff,3,0,3.7,35.0
+F,N,Y,0,180000.0,Commercial associate,Secondary,Single,House,1,0,0,0,,1,0,1.6,40.0
+M,N,N,0,135000.0,Pensioner,Secondary,Married,House,1,0,1,0,,2,0,0.0,
+M,N,Y,1,231750.0,Working,Secondary,Married,House,1,0,0,0,,3,0,0.4,39.0
+F,Y,Y,1,157500.0,Pensioner,Secondary,Married,House,1,0,1,0,,3,0,0.0,57.0
+F,N,Y,0,126000.0,Working,Secondary,Married,House,1,0,1,0,Accountants,2,0,5.9,65.0
+M,Y,Y,0,180000.0,Commercial associate,Secondary,Married,House,1,0,0,0,Drivers,2,0,9.5,49.0
+M,Y,Y,0,292500.0,State servant,Higher education,Married,House,1,0,0,0,High skill tech staff,2,0,6.5,35.0
+M,Y,Y,1,427500.0,Working,Secondary,Married,House,1,0,1,0,Drivers,3,0,7.0,33.0
+M,N,Y,0,202500.0,Commercial associate,Secondary,Married,House,1,0,0,0,Laborers,2,0,5.5,48.0
+F,N,Y,0,135000.0,Pensioner,Lower secondary,Married,House,1,0,0,0,,2,0,0.0,62.0
+F,N,Y,0,202500.0,Working,Secondary,Married,House,1,0,0,0,Core staff,2,1,9.4,40.0
+F,N,N,0,94500.0,Working,Secondary,Married,House,1,0,0,0,Waiters/barmen staff,2,0,4.4,46.0
+F,Y,Y,2,216000.0,Working,Higher education,Married,House,1,0,0,0,Core staff,4,0,13.4,35.0
+M,Y,Y,1,360000.0,Working,Higher education,Married,House,1,0,0,0,Drivers,3,0,3.6,43.0
+M,Y,Y,0,225000.0,Commercial associate,Higher education,Single,House,1,0,1,0,Sales staff,1,0,7.0,44.0
+M,N,Y,0,90000.0,Pensioner,Secondary,Married,House,1,0,0,0,,2,0,0.0,66.0
+M,Y,N,0,202500.0,Working,Secondary,Married,With parents,1,0,0,0,Laborers,2,1,3.8,38.0
+F,N,N,0,261000.0,Commercial associate,Incomplete higher,Married,House,1,1,0,0,,2,0,2.9,27.0
+F,N,N,2,157500.0,State servant,Higher education,Married,House,1,0,0,0,Medicine staff,4,0,14.6,35.0
+F,N,Y,0,135000.0,Working,Secondary,Single,House,1,1,0,0,Laborers,1,0,5.2,48.0
+F,N,N,0,202500.0,Commercial associate,Higher education,Married,House,1,0,0,0,High skill tech staff,2,0,10.3,31.0
+F,Y,Y,1,157500.0,Commercial associate,Higher education,Married,House,1,0,0,1,Core staff,3,0,6.2,40.0
+F,Y,Y,0,90000.0,Working,Secondary,Married,House,1,1,1,0,Cooking staff,2,1,2.7,52.0
+M,Y,N,0,292500.0,Commercial associate,Secondary,Married,House,1,0,0,0,,2,0,7.5,57.0
+F,N,N,0,157500.0,Working,Secondary,Single,With parents,1,0,0,0,Sales staff,1,0,2.8,25.0
+F,N,N,0,121500.0,Pensioner,Secondary,Married,House,1,0,0,0,,2,0,0.0,58.0
+M,Y,Y,0,90000.0,Pensioner,Secondary,Married,House,1,0,0,0,,2,0,0.0,50.0
+F,N,Y,0,112500.0,State servant,Secondary,Married,House,1,0,0,1,Medicine staff,2,0,10.1,48.0
+F,N,Y,0,135000.0,Working,Secondary,Single,House,1,1,1,0,Secretaries,1,0,11.6,62.0
+F,N,N,0,94500.0,Pensioner,Secondary,Married,House,1,0,1,0,,2,0,0.0,
+M,Y,N,0,135000.0,Working,Secondary,Married,House,1,1,0,0,Sales staff,2,0,3.8,29.0
+F,N,Y,0,67500.0,Commercial associate,Higher education,Separated,House,1,0,1,0,Core staff,1,1,1.4,52.0
+F,Y,Y,0,270000.0,Pensioner,Secondary,Married,House,1,0,0,0,,2,0,0.0,66.0
+F,Y,Y,1,67500.0,Working,Secondary,Married,House,1,0,1,1,Cooking staff,3,0,4.6,31.0
+F,N,N,0,112500.0,Working,Secondary,Married,House,1,1,1,0,Core staff,2,0,15.1,52.0
+F,N,Y,0,180000.0,Pensioner,Secondary,Widow,House,1,0,0,0,,1,0,0.0,63.0
+M,N,Y,0,225000.0,Working,Secondary,Married,House,1,0,0,0,Laborers,2,0,4.2,59.0
+F,N,Y,0,135000.0,Pensioner,Secondary,Widow,House,1,0,1,0,,1,0,0.0,60.0
+F,N,Y,0,612000.0,State servant,Secondary,Married,House,1,0,0,1,Accountants,2,0,10.2,34.0
+M,Y,N,0,247500.0,Working,Secondary,Single,House,1,1,0,0,Managers,1,0,9.1,34.0
+F,N,Y,0,135000.0,State servant,Incomplete higher,Married,House,1,0,0,0,Core staff,2,0,9.1,42.0
+F,N,N,0,135000.0,Pensioner,Secondary,Married,House,1,0,0,0,,2,0,0.0,62.0
+M,Y,Y,0,157500.0,Working,Higher education,Married,House,1,0,0,0,Laborers,2,0,18.9,45.0
+M,Y,Y,0,315000.0,Working,Higher education,Married,House,1,0,0,0,Drivers,2,0,7.7,50.0
+F,N,Y,0,144000.0,Pensioner,Secondary,Married,House,1,0,0,0,,2,0,0.0,64.0
+M,N,Y,0,157500.0,Commercial associate,Higher education,Civil marriage,House,1,0,0,0,Accountants,2,1,3.0,49.0
+F,N,Y,0,90000.0,Working,Higher education,Married,House,1,0,0,0,Sales staff,2,0,4.8,52.0
+F,N,Y,0,202500.0,State servant,Secondary,Single,House,1,0,0,0,Medicine staff,1,0,14.9,64.0
+F,N,Y,0,423000.0,Commercial associate,Secondary,Separated,House,1,0,0,0,Private service staff,1,0,8.6,37.0
+F,N,N,1,90000.0,Working,Secondary,Married,With parents,1,0,0,0,Laborers,3,0,4.0,28.0
+M,Y,Y,0,157500.0,Working,Higher education,Married,House,1,0,0,0,Laborers,2,0,18.9,
+F,N,Y,0,90000.0,Commercial associate,Secondary,Married,House,1,0,0,0,Core staff,2,0,1.2,41.0
+F,N,Y,1,315000.0,State servant,Secondary,Civil marriage,House,1,0,0,1,Core staff,3,0,6.9,31.0
+F,N,Y,0,225000.0,Pensioner,Secondary,Married,House,1,0,0,0,,2,0,0.0,58.0
+F,N,N,0,,Working,Higher education,Separated,House,1,0,0,0,Core staff,1,0,4.2,60.0
+M,N,Y,1,198000.0,Commercial associate,Incomplete higher,Single,House,1,0,0,0,Managers,2,0,0.4,26.0
+F,Y,N,0,225000.0,Working,Higher education,Married,House,1,1,1,0,Accountants,2,1,6.9,56.0
+F,N,N,1,157500.0,Working,Secondary,Civil marriage,With parents,1,0,0,0,Sales staff,3,0,10.1,32.0
+F,N,Y,1,135000.0,Working,Incomplete higher,Married,House,1,0,0,0,,3,0,25.6,44.0
+F,N,N,0,315000.0,State servant,Higher education,Married,House,1,0,0,0,Core staff,2,0,18.2,58.0
+M,Y,Y,0,112500.0,Working,Secondary,Single,House,1,0,0,0,,1,0,4.4,27.0
+F,N,N,0,135000.0,Commercial associate,Higher education,Married,With parents,1,0,0,1,Core staff,2,0,1.1,42.0
+F,Y,Y,0,144000.0,Pensioner,Secondary,Civil marriage,House,1,0,1,0,,2,0,0.0,59.0
+M,Y,Y,2,450000.0,Commercial associate,Higher education,Married,House,1,1,1,0,Managers,4,1,11.8,49.0
+F,N,Y,0,270000.0,Working,Secondary,Separated,House,1,0,0,1,Laborers,1,0,5.6,50.0
+F,N,Y,0,126000.0,Commercial associate,Secondary,Civil marriage,Municipal apartment,1,1,1,0,Laborers,2,0,5.5,29.0
+M,Y,Y,2,180000.0,Working,Higher education,Married,House,1,0,0,0,Managers,4,0,6.8,36.0
+F,N,Y,0,139500.0,Working,Secondary,Married,House,1,0,0,1,Cooking staff,2,0,0.4,51.0
+M,Y,Y,1,292500.0,Commercial associate,Higher education,Married,House,1,0,0,0,,3,0,9.1,34.0
+M,N,Y,1,180000.0,Working,Higher education,Married,With parents,1,0,0,0,Cooking staff,3,0,4.5,43.0
+F,Y,N,0,,Working,Incomplete higher,Single,House,1,1,0,0,Managers,1,0,8.4,31.0
+F,N,Y,1,315000.0,Working,Higher education,Married,House,1,0,0,0,Managers,3,0,4.0,32.0
+M,N,Y,0,157500.0,Commercial associate,Secondary,Married,House,1,0,1,0,Laborers,2,0,3.5,57.0
+F,Y,Y,0,157500.0,Commercial associate,Secondary,Married,House,1,1,1,1,Core staff,2,0,8.2,33.0
+M,Y,Y,0,180000.0,Pensioner,Higher education,Married,House,1,0,0,0,,2,0,0.0,65.0
+F,N,Y,1,162000.0,State servant,Higher education,Civil marriage,House,1,0,0,0,Accountants,3,0,0.2,41.0
+F,N,N,0,117000.0,Working,Secondary,Married,House,1,0,0,0,,2,0,6.4,57.0
+M,N,N,1,270000.0,Commercial associate,Secondary,Married,House,1,1,1,0,Drivers,3,0,14.9,37.0
+M,Y,N,2,180000.0,Commercial associate,Higher education,Married,House,1,0,0,0,Managers,4,0,7.3,43.0
+M,Y,N,2,135000.0,Working,Secondary,Married,With parents,1,0,0,0,,4,0,1.5,46.0
+F,N,Y,0,202500.0,Working,Secondary,Married,House,1,0,0,0,Core staff,2,1,9.4,40.0
+F,N,Y,0,135000.0,Working,Secondary,Married,House,1,0,0,0,Laborers,2,0,6.4,57.0
+M,N,Y,0,81000.0,Commercial associate,Higher education,Single,House,1,0,1,0,Laborers,1,0,5.3,27.0
+F,N,Y,1,180000.0,Pensioner,Higher education,Married,House,1,0,1,0,,3,0,0.0,52.0
+M,Y,Y,0,126000.0,Working,Higher education,Single,House,1,1,0,0,Managers,1,1,2.4,40.0
+F,Y,N,0,126000.0,State servant,Incomplete higher,Single,House,1,1,0,0,Core staff,1,0,14.3,33.0
+M,Y,N,0,225000.0,Commercial associate,Secondary,Single,House,1,0,0,0,Managers,1,0,7.2,48.0
+F,N,Y,2,126000.0,Working,Secondary,Married,House,1,1,1,0,Sales staff,4,0,4.3,27.0
+F,N,N,0,90000.0,State servant,Secondary,Married,House,1,0,1,0,,2,0,4.6,26.0
+M,Y,N,0,360000.0,State servant,Higher education,Married,House,1,0,0,0,,2,0,5.3,27.0
+M,N,Y,0,225000.0,Working,Secondary,Single,House,1,0,0,0,Drivers,1,0,1.3,27.0
+F,N,Y,2,135000.0,Working,Secondary,Married,House,1,0,0,0,,4,0,4.2,35.0
+M,Y,Y,2,292500.0,Commercial associate,Secondary,Married,House,1,0,1,0,,4,0,7.3,33.0
+F,N,N,0,90000.0,Working,Higher education,Separated,House,1,0,0,0,Core staff,1,0,4.2,60.0
+F,N,Y,1,67500.0,Commercial associate,Secondary,Married,House,1,0,0,0,Accountants,3,1,11.3,52.0
+F,N,Y,0,81000.0,Pensioner,Secondary,Married,House,1,0,0,0,,2,0,0.0,59.0
+F,N,N,0,135000.0,Working,Secondary,Married,House,1,0,0,0,,2,0,6.1,
+F,N,Y,0,166500.0,Working,Incomplete higher,Married,House,1,0,0,1,Laborers,2,0,11.0,30.0
+F,N,N,0,225000.0,Pensioner,Higher education,Separated,House,1,0,0,0,,1,0,0.0,60.0
+F,Y,Y,0,225000.0,Working,Higher education,Married,House,1,0,0,0,,2,0,7.8,45.0
+F,Y,N,0,315000.0,Commercial associate,Higher education,Married,House,1,1,1,0,,2,1,1.6,37.0
+F,Y,Y,0,315000.0,Commercial associate,Secondary,Married,House,1,0,0,1,Core staff,2,0,15.1,43.0
+F,N,Y,0,112500.0,Working,Incomplete higher,Civil marriage,House,1,0,0,0,,2,0,4.8,25.0
+F,N,Y,0,157500.0,Working,Secondary,Married,House,1,0,0,0,Laborers,2,0,12.4,54.0
+F,Y,Y,2,135000.0,Working,Secondary,Married,House,1,0,0,1,Drivers,4,0,0.7,34.0
+M,Y,Y,1,270000.0,Commercial associate,Secondary,Married,House,1,0,0,0,Laborers,3,0,2.3,34.0
+M,Y,Y,0,126000.0,Pensioner,Secondary,Married,House,1,0,0,0,,2,0,0.0,53.0
+M,N,N,1,180000.0,Working,Secondary,Single,House,1,1,1,0,Laborers,3,0,2.5,29.0
+F,N,N,0,202500.0,Pensioner,Higher education,Single,House,1,0,0,0,,1,0,0.0,64.0
+F,Y,Y,1,135000.0,Commercial associate,Higher education,Married,House,1,0,0,0,,3,0,6.8,31.0
+F,N,Y,0,135000.0,Working,Secondary,Married,House,1,1,1,0,Core staff,2,0,2.1,36.0
+F,N,N,0,117000.0,Commercial associate,Secondary,Single,With parents,1,0,0,0,Sales staff,1,0,1.5,27.0
+F,N,N,0,247500.0,Working,Higher education,Married,House,1,1,1,0,Managers,2,0,20.3,39.0
+F,N,Y,0,247500.0,Commercial associate,Higher education,Separated,Rented apartment,1,0,0,0,Core staff,1,0,3.7,47.0
+M,Y,Y,0,195750.0,Working,Secondary,Married,House,1,1,1,0,Laborers,2,1,2.6,52.0
+F,N,Y,2,76500.0,State servant,Higher education,Married,House,1,0,0,0,,4,0,5.9,40.0
+F,Y,N,0,135000.0,Working,Secondary,Married,House,1,0,0,0,,2,0,1.8,50.0
+M,N,N,0,157500.0,Working,Secondary,Married,House,1,1,0,0,Laborers,2,1,20.0,50.0
+M,N,N,1,405000.0,Working,Secondary,Married,With parents,1,0,0,0,Drivers,3,0,3.6,35.0
+F,N,N,2,225000.0,Working,Secondary,Married,House,1,0,0,0,Medicine staff,4,0,3.1,39.0
+F,N,N,0,112500.0,Commercial associate,Higher education,Single,With parents,1,0,0,0,Laborers,1,0,0.6,25.0
+F,N,Y,0,67500.0,Pensioner,Secondary,Widow,House,1,0,0,0,,1,0,0.0,64.0
+F,N,N,2,112500.0,Working,Secondary,Married,House,1,0,0,0,Laborers,4,0,3.0,43.0
+F,N,Y,0,157500.0,Working,Secondary,Married,House,1,1,1,0,Laborers,2,0,12.5,40.0
+M,Y,Y,1,292500.0,Commercial associate,Higher education,Married,House,1,0,0,0,,3,0,9.1,34.0
+F,N,Y,0,387000.0,Commercial associate,Secondary,Married,House,1,0,0,0,Sales staff,2,0,13.6,55.0
+F,N,Y,0,292500.0,Working,Higher education,Separated,House,1,0,1,0,Core staff,1,0,34.6,54.0
+F,N,Y,0,315000.0,Pensioner,Secondary,Widow,House,1,0,1,0,,1,0,0.0,63.0
+F,Y,N,2,360000.0,Working,Incomplete higher,Married,House,1,0,0,0,Accountants,4,0,6.1,35.0
+M,N,Y,0,90000.0,Pensioner,Secondary,Married,House,1,0,0,1,,2,1,4.5,52.0
+M,Y,Y,0,450000.0,Commercial associate,Higher education,Separated,House,1,1,1,0,,1,0,2.3,44.0
+M,Y,N,0,112500.0,State servant,Secondary,Single,House,1,0,0,0,Drivers,2,1,4.2,56.0
+M,Y,Y,1,180000.0,Working,Secondary,Civil marriage,House,1,0,0,0,Managers,3,0,10.8,39.0
+F,N,N,0,148500.0,Pensioner,Secondary,Widow,House,1,0,1,0,,1,0,0.0,57.0
+F,Y,Y,0,247500.0,Commercial associate,Higher education,Married,House,1,0,1,1,,2,0,5.1,40.0
+M,N,Y,0,157500.0,Working,Incomplete higher,Married,House,1,1,1,0,,2,0,1.2,37.0
+M,N,N,1,360000.0,Working,Secondary,Married,House,1,1,0,1,Managers,3,0,8.0,42.0
+M,Y,Y,0,202500.0,Working,Secondary,Married,House,1,0,1,0,Laborers,2,0,0.6,55.0
+M,N,N,0,202500.0,Working,Secondary,Civil marriage,House,1,0,0,0,Drivers,2,0,0.3,62.0
+M,N,N,0,180000.0,Working,Higher education,Married,With parents,1,1,1,0,High skill tech staff,2,0,6.6,37.0
+F,N,Y,0,202500.0,Pensioner,Secondary,Married,House,1,0,0,0,,2,0,0.0,
+M,Y,N,0,270000.0,Pensioner,Higher education,Married,House,1,0,0,0,,2,0,0.0,64.0
+F,N,Y,0,225000.0,Commercial associate,Secondary,Civil marriage,House,1,0,0,0,,2,0,1.8,36.0
+M,N,Y,3,180000.0,Working,Secondary,Married,House,1,0,0,0,Laborers,5,0,18.8,39.0
+M,N,Y,0,162000.0,Working,Secondary,Single,House,1,0,0,0,Security staff,1,0,1.6,31.0
+M,Y,Y,2,450000.0,Commercial associate,Higher education,Married,House,1,1,1,0,Managers,4,1,11.8,49.0
+F,N,Y,0,180000.0,Commercial associate,Higher education,Married,House,1,0,0,0,,2,0,1.4,61.0
+M,Y,Y,0,360000.0,Pensioner,Secondary,Married,House,1,0,0,0,,2,0,0.0,38.0
+F,N,Y,2,216000.0,State servant,Higher education,Married,House,1,0,0,1,,4,0,8.5,42.0
+F,N,N,0,202500.0,Working,Secondary,Separated,House,1,0,0,0,Laborers,1,0,11.4,46.0
+F,Y,N,0,216000.0,Working,Higher education,Married,Municipal apartment,1,0,1,0,Sales staff,2,0,0.8,33.0
+M,N,Y,1,157500.0,Working,Secondary,Married,House,1,0,0,0,Sales staff,3,0,1.0,34.0
+F,N,Y,0,126000.0,Commercial associate,Higher education,Single,House,1,0,0,0,Sales staff,1,1,6.8,52.0
+F,N,Y,1,157500.0,Commercial associate,Secondary,Married,House,1,1,1,0,Laborers,3,1,10.8,36.0
+M,N,Y,0,157500.0,Working,Incomplete higher,Married,House,1,1,1,0,,2,0,1.2,37.0
+M,Y,N,0,126000.0,Commercial associate,Incomplete higher,Married,House,1,0,1,0,Laborers,2,0,8.0,28.0
+M,Y,Y,0,225000.0,Working,Higher education,Married,Rented apartment,1,0,0,0,Sales staff,2,0,1.3,29.0
+M,Y,Y,1,157500.0,Working,Secondary,Married,House,1,0,0,0,Laborers,3,0,8.5,38.0
+F,N,Y,0,90000.0,Working,Secondary,Single,House,1,0,0,0,,1,0,1.9,40.0
+F,Y,Y,0,270000.0,State servant,Higher education,Married,House,1,0,0,0,Managers,2,0,22.5,45.0
+M,Y,N,1,351000.0,Commercial associate,Secondary,Married,House,1,0,0,0,Private service staff,3,0,23.2,44.0
+F,Y,Y,0,157500.0,Pensioner,Secondary,Widow,House,1,0,0,0,,1,0,0.0,56.0
+M,Y,Y,1,810000.0,Commercial associate,Incomplete higher,Civil marriage,Office apartment,1,0,0,0,Security staff,3,0,9.5,49.0
+M,Y,N,0,112500.0,State servant,Secondary,Married,House,1,0,0,0,Laborers,2,0,6.4,54.0
+F,N,Y,1,63000.0,Commercial associate,Secondary,Married,House,1,0,0,0,Sales staff,3,0,8.2,40.0
+M,N,N,2,171000.0,Working,Secondary,Married,Municipal apartment,1,1,1,0,Core staff,4,0,15.5,38.0
+F,Y,Y,0,99000.0,Pensioner,Secondary,Civil marriage,House,1,0,0,0,,2,0,0.0,59.0
+M,N,Y,1,126000.0,Commercial associate,Secondary,Civil marriage,House,1,0,0,0,,3,0,5.8,35.0
+F,N,Y,0,202500.0,Commercial associate,Secondary,Married,House,1,0,0,0,Managers,2,0,16.0,44.0
+F,N,Y,0,292500.0,Pensioner,Secondary,Single,House,1,0,0,0,,1,0,0.0,62.0
+F,N,Y,0,67500.0,Pensioner,Higher education,Single,Municipal apartment,1,0,0,1,,1,0,0.0,65.0
+M,N,Y,0,112500.0,Pensioner,Secondary,Married,House,1,0,1,0,,2,0,0.0,61.0
+F,N,Y,1,166500.0,Working,Secondary,Married,House,1,0,1,0,,3,0,22.0,55.0
+F,N,N,0,67500.0,Commercial associate,Higher education,Separated,House,1,0,1,0,Core staff,1,1,1.4,52.0
+F,N,Y,1,166500.0,Working,Secondary,Married,House,1,0,1,0,,3,0,22.0,55.0
+M,N,Y,0,270000.0,Working,Secondary,Single,House,1,0,0,0,Laborers,2,1,0.7,46.0
+M,Y,Y,0,121500.0,Pensioner,Higher education,Married,House,1,0,1,0,,2,0,0.0,66.0
+M,Y,Y,0,112500.0,Working,Secondary,Single,House,1,1,0,0,Laborers,1,0,0.5,24.0
+F,N,Y,0,202500.0,Pensioner,Secondary,Married,House,1,0,0,0,,2,0,0.0,60.0
+F,N,Y,1,202500.0,Working,Secondary,Married,House,1,0,0,1,,3,0,2.0,43.0
+F,N,Y,2,58500.0,Working,Higher education,Married,House,1,0,0,0,Core staff,4,0,16.3,39.0
+F,Y,Y,1,180000.0,Commercial associate,Secondary,Married,House,1,0,0,1,Cleaning staff,3,0,3.8,46.0
+F,N,Y,0,405000.0,Commercial associate,Secondary,Married,House,1,0,0,1,Sales staff,2,0,13.4,48.0
+F,N,Y,0,180000.0,Commercial associate,Higher education,Married,House,1,0,0,0,,2,0,1.4,61.0
+M,N,Y,1,112500.0,State servant,Secondary,Married,House,1,0,0,0,Laborers,3,0,0.6,38.0
+F,N,Y,0,247500.0,Commercial associate,Secondary,Married,House,1,0,0,0,,2,0,2.0,53.0
+F,N,Y,0,157500.0,Working,Higher education,Single,House,1,0,0,0,Laborers,1,0,29.0,61.0
+F,N,N,2,73350.0,Working,Secondary,Married,House,1,0,0,0,Medicine staff,4,0,19.4,39.0
+F,N,Y,0,112500.0,Pensioner,Secondary,Married,House,1,0,1,0,,2,1,0.0,60.0
+F,Y,Y,2,121500.0,Working,Incomplete higher,Married,House,1,1,1,0,Core staff,4,0,0.3,31.0
+M,Y,N,0,157500.0,Working,Higher education,Married,House,1,0,0,0,,2,0,1.7,43.0
+F,N,N,0,112500.0,Working,Secondary,Married,House,1,1,1,0,Accountants,2,0,2.9,40.0
+F,Y,Y,0,76500.0,Pensioner,Secondary,Married,House,1,0,0,0,,2,1,0.0,65.0
+F,Y,Y,1,180000.0,Working,Secondary,Married,House,1,1,1,0,,3,0,10.2,34.0
+F,N,Y,1,180000.0,Working,Higher education,Separated,House,1,0,0,0,HR staff,2,0,4.3,41.0
+M,Y,Y,0,135000.0,Working,Lower secondary,Married,With parents,1,0,0,1,Laborers,2,0,5.1,27.0
+F,N,Y,0,112500.0,Pensioner,Secondary,Married,House,1,0,0,0,,2,0,0.0,58.0
+F,N,Y,3,112500.0,Working,Secondary,Married,House,1,0,0,0,Core staff,5,0,10.1,36.0
+F,Y,Y,0,135000.0,Working,Secondary,Civil marriage,House,1,0,0,0,Laborers,2,0,23.0,45.0
+M,Y,Y,0,315000.0,Working,Higher education,Married,House,1,0,0,0,Drivers,2,0,7.7,50.0
+M,N,Y,0,81000.0,Commercial associate,Higher education,Single,House,1,0,1,0,Laborers,1,0,5.3,27.0
+M,N,Y,0,225000.0,State servant,Higher education,Married,House,1,0,0,0,,2,0,0.4,25.0
+F,N,N,0,193500.0,Working,Secondary,Single,Municipal apartment,1,0,1,0,Laborers,1,0,5.1,44.0
+F,N,Y,2,72000.0,Working,Secondary,Married,House,1,1,1,0,Medicine staff,4,0,15.1,42.0
+F,N,Y,2,115200.0,Commercial associate,Secondary,Married,House,1,0,0,0,Laborers,4,0,2.0,41.0
+F,Y,Y,0,405000.0,Commercial associate,Incomplete higher,Married,House,1,0,1,0,,2,0,10.8,51.0
+F,Y,N,1,315000.0,Commercial associate,Higher education,Married,House,1,1,1,1,,3,0,5.7,30.0
+M,N,N,1,216000.0,Working,Secondary,Married,Municipal apartment,1,0,0,1,Laborers,3,1,6.6,35.0
+F,N,N,1,112500.0,Working,Secondary,Civil marriage,House,1,1,1,0,Core staff,3,0,7.3,41.0
+F,Y,N,0,202500.0,State servant,Secondary,Married,House,1,0,1,0,Medicine staff,2,0,32.7,54.0
+M,Y,Y,0,135000.0,Working,Secondary,Married,Office apartment,1,1,1,0,Drivers,2,0,22.3,41.0
+M,Y,Y,0,225000.0,Commercial associate,Higher education,Single,House,1,0,0,1,,1,0,2.6,32.0
+M,N,N,0,180000.0,Working,Secondary,Married,House,1,1,1,0,Laborers,2,0,13.6,
+F,Y,Y,0,180000.0,Commercial associate,Higher education,Single,House,1,0,0,0,Core staff,1,0,19.6,42.0
+M,Y,Y,2,,Commercial associate,Higher education,Married,House,1,1,1,0,Managers,4,1,11.8,49.0
+F,N,Y,0,126000.0,Pensioner,Secondary,Married,House,1,0,0,0,,2,0,0.0,57.0
+F,N,Y,0,148500.0,Pensioner,Secondary,Married,House,1,0,0,0,,2,0,0.0,59.0
+M,N,Y,0,247500.0,Working,Secondary,Married,House,1,0,0,0,Laborers,2,0,6.5,48.0
+M,Y,N,2,225000.0,Commercial associate,Secondary,Married,House,1,0,0,0,,4,0,10.5,40.0
+M,N,Y,1,225000.0,Working,Secondary,Married,House,1,0,0,0,Drivers,3,0,4.6,45.0
+F,N,Y,0,180000.0,Working,Lower secondary,Widow,House,1,1,1,0,Cleaning staff,1,1,6.1,46.0
+F,N,N,1,112500.0,Commercial associate,Higher education,Married,House,1,1,1,0,Managers,3,0,6.9,44.0
+F,Y,Y,1,270000.0,Working,Secondary,Married,House,1,0,0,0,Laborers,3,0,8.9,39.0
+M,Y,Y,0,173250.0,Working,Secondary,Civil marriage,House,1,1,0,0,Drivers,2,0,6.5,45.0
+M,Y,N,1,135000.0,Working,Secondary,Married,House,1,0,0,0,Laborers,3,1,2.4,26.0
+F,N,Y,1,585000.0,Commercial associate,Higher education,Single,House,1,0,0,0,Managers,2,1,2.5,29.0
+F,N,N,1,157500.0,Working,Secondary,Single,Municipal apartment,1,0,0,0,Core staff,2,0,14.6,35.0
+F,N,Y,1,135000.0,Commercial associate,Incomplete higher,Married,House,1,1,1,0,Managers,3,0,7.2,28.0
+F,Y,N,0,180000.0,Commercial associate,Secondary,Married,House,1,0,1,0,,2,0,3.0,45.0
+M,Y,N,0,337500.0,Working,Secondary,Married,House,1,0,1,0,Drivers,2,0,2.8,40.0
+M,Y,Y,0,225000.0,Working,Secondary,Married,House,1,0,0,0,Drivers,2,0,9.2,49.0
+M,N,Y,1,157500.0,Working,Secondary,Civil marriage,House,1,0,0,0,Laborers,3,0,14.9,56.0
+M,Y,Y,1,450000.0,Commercial associate,Secondary,Married,House,1,0,1,1,Core staff,3,1,1.9,50.0
+M,Y,Y,1,189000.0,Working,Higher education,Married,House,1,0,0,0,High skill tech staff,3,0,10.0,36.0
+F,N,N,0,126000.0,Commercial associate,Secondary,Married,House,1,1,0,0,Managers,2,0,15.8,46.0
+F,Y,N,0,315000.0,Working,Higher education,Married,House,1,0,1,1,Accountants,2,0,9.6,37.0
+M,N,Y,1,103500.0,Working,Secondary,Married,House,1,1,0,0,Laborers,3,0,1.8,32.0
+F,N,N,1,112500.0,State servant,Secondary,Single,House,1,0,0,0,Core staff,2,0,20.8,44.0
+M,N,Y,0,202500.0,Commercial associate,Secondary,Married,House,1,1,0,1,Core staff,2,0,3.0,23.0
+F,Y,Y,2,315000.0,State servant,Secondary,Married,House,1,0,0,0,Managers,4,0,3.3,34.0
+F,N,N,1,135000.0,Commercial associate,Secondary,Separated,House,1,0,0,0,High skill tech staff,2,0,21.9,42.0
+M,Y,Y,0,405000.0,Working,Higher education,Married,House,1,1,0,1,,2,0,5.0,32.0
+M,N,Y,0,112500.0,Working,Secondary,Married,House,1,0,0,0,Drivers,2,0,9.6,53.0
+F,N,Y,0,67500.0,Pensioner,Secondary,Widow,House,1,0,0,0,,1,0,0.0,61.0
+M,N,N,1,360000.0,Working,Higher education,Married,House,1,1,1,0,Managers,3,0,1.3,30.0
+F,N,Y,0,103500.0,Commercial associate,Secondary,Married,House,1,1,1,0,Sales staff,2,0,4.3,47.0
+F,N,Y,1,585000.0,Commercial associate,Higher education,Single,House,1,0,0,0,Managers,2,1,2.5,29.0
+F,N,Y,0,247500.0,Working,Higher education,Married,House,1,0,0,1,Managers,2,0,1.6,61.0
+F,Y,Y,1,157500.0,Working,Incomplete higher,Civil marriage,House,1,0,0,0,,3,0,7.5,36.0
+M,N,Y,0,157500.0,Commercial associate,Higher education,Married,House,1,1,1,0,,2,0,3.3,42.0
+F,Y,Y,0,247500.0,Working,Secondary,Single,With parents,1,0,0,0,Sales staff,1,0,0.8,32.0
+F,Y,Y,1,247500.0,Working,Secondary,Civil marriage,House,1,0,0,1,Laborers,3,0,3.4,47.0
+M,Y,N,1,135000.0,Working,Secondary,Married,House,1,0,1,0,Laborers,3,0,5.2,52.0
+M,N,N,1,270000.0,Commercial associate,Secondary,Married,House,1,1,1,0,Drivers,3,0,14.9,37.0
+F,N,N,1,112500.0,Working,Secondary,Widow,House,1,0,0,0,,2,0,3.6,55.0
+F,Y,Y,1,90000.0,State servant,Secondary,Married,House,1,0,0,0,Medicine staff,3,0,22.0,48.0
+M,N,Y,0,112500.0,Commercial associate,Higher education,Married,House,1,0,0,0,Security staff,2,1,1.5,55.0
+F,N,N,2,337500.0,Working,Secondary,Married,House,1,0,0,0,Core staff,4,0,6.0,30.0
+F,N,Y,2,157500.0,Commercial associate,Higher education,Married,House,1,0,0,0,High skill tech staff,4,0,0.2,38.0
+F,N,Y,0,180000.0,Working,Secondary,Married,House,1,0,0,0,Laborers,2,0,8.2,38.0
+M,Y,Y,2,225000.0,Working,Secondary,Married,House,1,1,0,0,Laborers,4,0,6.9,30.0
+M,N,Y,0,112500.0,Working,Secondary,Married,House,1,1,1,0,Low-skill Laborers,2,0,5.8,51.0
+F,N,Y,0,202500.0,Pensioner,Secondary,Married,House,1,0,0,0,,2,0,0.0,57.0
+F,N,Y,0,157500.0,Pensioner,Secondary,Widow,House,1,0,0,0,,1,0,0.0,65.0
+M,N,N,1,247500.0,Working,Higher education,Single,House,1,0,0,0,Laborers,2,0,5.1,38.0
+M,Y,N,0,202500.0,Pensioner,Higher education,Married,House,1,0,0,0,,2,0,0.0,55.0
+,N,N,0,162000.0,Pensioner,Secondary,Married,House,1,0,0,0,,2,1,0.0,58.0
+F,N,Y,0,67500.0,Pensioner,Secondary,Single,House,1,0,1,0,,1,0,0.0,56.0
+F,N,Y,1,108000.0,Working,Secondary,Married,House,1,0,0,0,Laborers,3,0,12.6,44.0
+M,Y,Y,0,90000.0,Working,Secondary,Married,House,1,0,0,0,Core staff,2,0,4.2,33.0
+F,Y,Y,0,315000.0,Working,Higher education,Married,House,1,0,0,1,,2,0,1.6,59.0
+F,N,Y,0,157500.0,Pensioner,Lower secondary,Married,House,1,0,0,0,,2,0,0.0,64.0
+F,N,Y,1,180000.0,Commercial associate,Secondary,Civil marriage,House,1,0,0,0,Realty agents,3,0,8.1,33.0
+F,N,Y,0,157500.0,State servant,Higher education,Married,House,1,0,1,0,Managers,2,0,10.0,41.0
+M,Y,N,1,315000.0,State servant,Secondary,Married,House,1,0,0,1,High skill tech staff,3,0,10.0,36.0
+F,N,Y,0,180000.0,Pensioner,Secondary,Married,House,1,0,0,0,,2,1,0.0,62.0
+M,Y,N,0,135000.0,Working,Secondary,Single,House,1,0,0,0,Core staff,1,0,2.5,34.0
+F,N,Y,1,117000.0,Working,Lower secondary,Widow,House,1,0,1,0,,2,0,8.4,48.0
+F,N,Y,2,103500.0,Working,Secondary,Married,House,1,1,1,0,Medicine staff,4,0,18.1,
+M,N,Y,1,292500.0,Working,Secondary,Married,House,1,0,0,0,Laborers,3,0,4.6,46.0
+M,N,Y,1,202500.0,Commercial associate,Secondary,Married,House,1,0,1,0,Security staff,3,0,0.3,41.0
+F,N,N,0,99000.0,Commercial associate,Secondary,Single,House,1,1,0,0,Core staff,1,0,1.0,45.0
+M,N,Y,0,211500.0,Working,Secondary,Single,House,1,1,1,0,Core staff,1,0,3.0,28.0
+F,Y,Y,0,315000.0,Pensioner,Secondary,Single,House,1,0,0,0,,1,0,0.0,58.0
+M,Y,N,0,337500.0,State servant,Higher education,Married,With parents,1,1,1,0,Managers,2,0,4.5,28.0
+F,N,N,2,171000.0,Working,Secondary,Married,House,1,1,1,0,Core staff,4,0,3.2,40.0
+M,Y,N,0,180000.0,Working,Secondary,Married,Municipal apartment,1,1,0,0,Drivers,2,0,3.9,52.0
+F,N,N,0,90000.0,Pensioner,Secondary,Widow,House,1,0,1,0,,1,0,0.0,59.0
+F,Y,N,0,315000.0,Commercial associate,Higher education,Married,House,1,1,1,0,,2,1,1.6,37.0
+M,N,N,1,130500.0,Working,Incomplete higher,Married,Rented apartment,1,1,1,0,,3,1,5.0,31.0
+F,N,Y,0,54000.0,Pensioner,Higher education,Married,House,1,0,0,0,,2,0,0.0,67.0
+F,N,Y,0,47250.0,Pensioner,Secondary,Married,Municipal apartment,1,0,1,0,,2,0,0.0,59.0
+F,Y,Y,0,202500.0,Commercial associate,Secondary,Married,House,1,0,0,0,Accountants,2,0,19.3,51.0
+F,N,Y,1,90000.0,Working,Secondary,Married,House,1,0,0,1,Sales staff,3,0,10.1,45.0
+F,Y,N,0,56250.0,Pensioner,Secondary,Married,House,1,0,0,0,,2,0,0.0,58.0
+F,Y,Y,0,391500.0,Working,Secondary,Married,House,1,0,0,0,Core staff,2,0,19.9,47.0
+F,N,N,0,180000.0,State servant,Secondary,Widow,House,1,1,1,0,Laborers,1,0,1.0,50.0
+M,Y,Y,0,360000.0,Working,Higher education,Married,House,1,0,0,0,Managers,2,0,10.6,61.0
+M,N,Y,0,247500.0,Working,Secondary,Married,House,1,0,0,0,Laborers,2,0,6.5,48.0
+M,Y,Y,0,225000.0,Commercial associate,Higher education,Married,House,1,0,0,0,Managers,2,0,0.4,30.0
+F,Y,Y,0,135000.0,Working,Higher education,Married,House,1,0,0,0,Managers,2,0,10.8,34.0
+F,N,Y,1,112500.0,State servant,Incomplete higher,Civil marriage,House,1,0,1,0,Secretaries,3,0,9.8,30.0
+F,N,Y,0,180000.0,Working,Secondary,Married,House,1,0,0,0,Secretaries,2,0,21.1,54.0
+M,N,N,0,180000.0,Commercial associate,Higher education,Single,House,1,0,0,0,High skill tech staff,1,0,4.1,26.0
+F,N,Y,0,157500.0,Commercial associate,Secondary,Married,House,1,0,0,0,Laborers,2,0,8.9,47.0
+F,N,N,0,90000.0,Commercial associate,Secondary,Married,House,1,0,0,0,,2,0,1.4,24.0
+F,N,Y,0,112500.0,Working,Higher education,Married,House,1,0,0,0,Accountants,2,0,11.0,33.0
+M,N,N,0,360000.0,Working,Secondary,Civil marriage,House,1,0,0,0,Laborers,2,0,14.1,34.0
+F,N,Y,0,90000.0,State servant,Secondary,Married,House,1,0,0,0,,2,0,0.6,48.0
+F,N,Y,1,135000.0,Commercial associate,Incomplete higher,Married,House,1,1,1,0,Managers,3,0,7.2,28.0
+F,Y,Y,0,90000.0,Pensioner,Secondary,Married,House,1,0,0,0,,2,0,0.0,59.0
+F,N,Y,0,225000.0,Working,Secondary,Single,House,1,0,0,0,Core staff,1,0,5.0,49.0
+F,N,Y,3,207000.0,Commercial associate,Secondary,Widow,House,1,1,1,0,,4,0,1.3,42.0
+F,N,Y,2,54000.0,Working,Higher education,Married,House,1,1,0,0,Cleaning staff,4,0,12.5,31.0
+F,Y,Y,1,189000.0,Working,Lower secondary,Married,House,1,0,0,1,Core staff,3,0,2.4,45.0
+F,Y,N,1,225000.0,Working,Higher education,Civil marriage,House,1,1,1,0,Core staff,3,0,2.7,37.0
+F,Y,Y,0,225000.0,Pensioner,Secondary,Married,House,1,0,0,0,,2,0,0.0,63.0
+F,N,N,1,157500.0,Commercial associate,Higher education,Married,House,1,0,0,0,High skill tech staff,3,0,4.3,30.0
+F,Y,Y,0,112500.0,Working,Secondary,Married,House,1,0,0,0,Sales staff,2,0,4.9,47.0
+M,Y,N,2,202500.0,Commercial associate,Higher education,Married,House,1,0,0,0,Managers,4,0,1.3,32.0
+M,Y,Y,0,225000.0,Working,Secondary,Separated,House,1,0,0,0,Drivers,1,0,4.8,38.0
+F,N,N,1,108000.0,Working,Secondary,Separated,House,1,0,1,0,,2,0,11.2,39.0
+M,N,Y,1,135000.0,Working,Secondary,Civil marriage,House,1,0,0,0,,3,0,7.5,36.0
+F,Y,Y,1,234000.0,Working,Secondary,Single,House,1,0,0,0,,2,0,7.8,57.0
+M,Y,Y,1,202500.0,Working,Secondary,Married,House,1,0,0,0,Laborers,3,0,2.3,28.0
+F,N,Y,0,135000.0,Commercial associate,Secondary,Married,House,1,0,0,0,Laborers,2,0,1.3,58.0
+F,N,N,0,171000.0,Pensioner,Secondary,Married,House,1,0,1,0,,2,0,0.0,57.0
+F,N,Y,0,112500.0,Working,Secondary,Single,House,1,0,0,0,Laborers,1,0,2.8,27.0
+M,Y,Y,0,297000.0,Working,Secondary,Married,House,1,0,1,0,,2,0,3.2,56.0
+F,N,Y,2,270000.0,Commercial associate,Higher education,Married,House,1,0,0,1,Secretaries,4,0,6.0,42.0
+M,N,Y,0,90000.0,Working,Secondary,Single,House,1,1,1,0,Drivers,1,0,0.6,29.0
+F,N,Y,0,112500.0,Working,Secondary,Single,House,1,1,1,0,Managers,1,0,5.1,44.0
+M,Y,Y,0,450000.0,Working,Higher education,Married,House,1,0,1,0,Managers,2,0,12.1,52.0
+M,Y,N,2,202500.0,Working,Higher education,Married,House,1,0,0,0,Drivers,4,0,2.0,32.0
+F,N,Y,1,675000.0,Commercial associate,Secondary,Single,House,1,0,0,0,Security staff,2,1,2.4,42.0
+F,N,Y,0,121900.5,Pensioner,Secondary,Married,House,1,0,0,0,,2,0,0.0,44.0
+F,N,Y,0,90000.0,Working,Secondary,Single,House,1,0,0,0,,1,0,1.9,40.0
+M,N,N,1,202500.0,Working,Secondary,Separated,House,1,1,1,0,Laborers,2,0,2.0,23.0
+F,N,Y,1,105750.0,Working,Secondary,Married,With parents,1,0,0,0,Cleaning staff,3,0,3.8,35.0
+F,Y,N,1,135000.0,Working,Higher education,Married,Rented apartment,1,0,0,1,Accountants,3,0,1.5,31.0
+M,Y,Y,0,337500.0,Working,Higher education,Married,House,1,0,0,0,Laborers,2,0,20.5,65.0
+F,N,N,0,33750.0,Pensioner,Higher education,Married,House,1,0,0,0,,2,0,0.0,52.0
+M,Y,N,0,112500.0,Working,Secondary,Married,House,1,0,0,0,Laborers,2,0,2.3,28.0
+F,N,N,2,180000.0,Commercial associate,Secondary,Married,House,1,1,0,0,Accountants,4,0,3.7,38.0
+F,N,Y,0,193500.0,Pensioner,Incomplete higher,Widow,House,1,0,0,0,,1,0,0.0,67.0
+F,Y,Y,1,67500.0,Working,Secondary,Married,House,1,0,1,1,Laborers,3,0,2.6,35.0
+F,Y,Y,0,180000.0,Working,Secondary,Married,House,1,0,0,0,Medicine staff,2,0,2.7,32.0
+M,N,Y,0,135000.0,State servant,Secondary,Married,Rented apartment,1,1,0,1,,2,0,6.4,29.0
+F,N,Y,0,247500.0,Commercial associate,Higher education,Married,House,1,0,0,0,Sales staff,2,0,8.2,33.0
+F,N,Y,0,135000.0,Pensioner,Incomplete higher,Separated,House,1,0,0,0,,1,0,0.0,56.0
+F,Y,Y,0,238500.0,Working,Higher education,Married,House,1,0,0,0,Medicine staff,2,0,19.4,42.0
+M,Y,Y,1,225000.0,Working,Secondary,Married,House,1,0,1,0,Drivers,3,0,2.4,31.0
+F,Y,N,1,67500.0,State servant,Secondary,Married,House,1,0,0,0,Core staff,3,0,3.2,42.0
+F,N,Y,0,94500.0,Pensioner,Secondary,Widow,House,1,0,0,0,,1,0,0.0,67.0
+F,N,Y,0,180000.0,Commercial associate,Secondary,Married,House,1,0,0,0,,2,0,7.5,58.0
+F,Y,Y,0,157500.0,Pensioner,Lower secondary,Married,House,1,0,0,0,,2,0,0.0,60.0
+M,Y,Y,2,247500.0,Working,Secondary,Married,House,1,0,0,0,Laborers,4,1,1.5,47.0
+F,N,Y,0,112500.0,Working,Higher education,Civil marriage,House,1,0,0,0,Core staff,2,0,3.3,35.0
+M,Y,Y,0,270000.0,Working,Higher education,Married,House,1,0,0,0,Drivers,2,0,1.1,30.0
+F,Y,N,0,180000.0,Pensioner,Secondary,Widow,House,1,0,1,0,,1,0,0.0,56.0
+M,Y,Y,0,261000.0,Working,Incomplete higher,Married,House,1,0,1,0,Managers,2,0,4.1,44.0
+F,Y,N,0,112500.0,State servant,Secondary,Married,House,1,1,1,0,Core staff,2,0,1.3,32.0
+F,N,Y,0,189000.0,Pensioner,Incomplete higher,Widow,House,1,0,0,0,,1,0,0.0,60.0
+F,N,Y,0,157500.0,Working,Secondary,Married,House,1,0,0,0,Laborers,2,0,12.4,54.0
+F,N,Y,0,247500.0,Pensioner,Secondary,Widow,House,1,0,0,0,,1,0,0.0,67.0
+M,N,N,0,112500.0,Pensioner,Secondary,Married,Municipal apartment,1,0,0,0,,2,1,0.0,59.0
+M,Y,Y,0,116100.0,Working,Secondary,Married,House,1,0,0,0,Laborers,2,0,6.7,28.0
+F,Y,N,2,270000.0,State servant,Higher education,Married,House,1,1,1,0,,4,1,20.2,44.0
+F,N,Y,0,148500.0,Pensioner,Secondary,Married,House,1,0,0,0,,2,0,0.0,62.0
+F,Y,N,1,292500.0,State servant,Higher education,Married,House,1,0,1,0,Core staff,3,0,7.3,44.0
+F,Y,Y,2,540000.0,Working,Higher education,Single,House,1,0,1,1,,3,0,1.2,39.0
+F,Y,Y,0,180000.0,Commercial associate,Secondary,Married,House,1,0,0,0,Sales staff,2,0,6.7,46.0
+F,Y,Y,1,180000.0,Working,Higher education,Separated,House,1,0,0,0,Managers,2,0,16.4,52.0
+F,N,Y,0,157500.0,Working,Secondary,Single,House,1,0,1,0,Private service staff,1,0,21.0,48.0
+M,N,Y,0,112500.0,Working,Secondary,Civil marriage,House,1,0,0,0,Security staff,2,0,1.0,49.0
+F,Y,Y,0,135000.0,Working,Secondary,Separated,House,1,0,0,0,Laborers,1,0,3.9,44.0
+F,N,N,2,135000.0,Working,Secondary,Married,With parents,1,0,0,0,Core staff,4,0,4.6,31.0
+F,Y,N,0,135000.0,Pensioner,Secondary,Married,House,1,0,1,1,,2,0,0.0,55.0
+F,N,Y,0,90000.0,Pensioner,Secondary,Separated,House,1,0,1,0,,1,0,0.0,58.0
+M,Y,N,2,112500.0,Working,Higher education,Married,House,1,0,0,0,Drivers,4,0,0.3,40.0
+F,N,Y,0,67500.0,Working,Higher education,Married,House,1,0,0,0,Core staff,2,0,4.3,39.0
+F,N,Y,0,99000.0,Pensioner,Higher education,Separated,House,1,0,0,0,,1,1,0.0,67.0
+M,N,N,1,472500.0,Pensioner,Higher education,Married,With parents,1,0,0,1,,3,1,2.5,24.0
+F,N,Y,0,247500.0,Commercial associate,Secondary,Married,House,1,0,0,0,Cooking staff,2,0,3.4,48.0
+M,N,Y,1,360000.0,Working,Secondary,Civil marriage,House,1,0,0,0,Sales staff,3,0,7.0,32.0
+F,N,Y,0,58500.0,Pensioner,Secondary,Single,House,1,0,1,0,,1,0,0.0,68.0
+F,N,Y,0,283500.0,Working,Secondary,Married,House,1,0,0,0,Sales staff,2,0,1.8,49.0
+M,N,Y,1,180000.0,Working,Lower secondary,Married,House,1,1,0,0,,3,0,4.6,29.0
+F,Y,Y,0,202500.0,Working,Higher education,Widow,House,1,0,0,0,Managers,1,0,4.1,33.0
+F,N,Y,1,216000.0,Working,Higher education,Single,House,1,0,1,0,Core staff,2,0,4.9,29.0
+M,Y,N,0,202500.0,Working,Secondary,Married,House,1,0,0,0,Drivers,2,0,10.0,52.0
+F,N,Y,0,630000.0,Pensioner,Secondary,Single,House,1,0,1,0,,1,0,0.0,60.0
+M,N,Y,0,225000.0,Working,Secondary,Married,House,1,0,0,0,Medicine staff,2,0,9.0,56.0
+F,Y,N,0,99000.0,Working,Secondary,Married,House,1,1,1,0,Core staff,2,0,12.0,40.0
+F,N,Y,0,157500.0,Working,Higher education,Married,House,1,0,1,0,Core staff,2,0,5.0,34.0
+F,N,N,1,112500.0,Working,Secondary,Married,House,1,1,0,0,,3,0,14.0,33.0
+F,N,Y,0,90000.0,Working,Secondary,Married,House,1,1,0,0,,2,0,8.6,55.0
+M,Y,Y,1,144000.0,Working,Secondary,Married,House,1,0,0,1,Drivers,3,0,2.9,24.0
+F,N,N,0,112500.0,Working,Higher education,Single,With parents,1,1,1,0,High skill tech staff,1,0,0.4,30.0
+F,N,N,0,225000.0,Commercial associate,Incomplete higher,Single,House,1,0,0,0,Accountants,1,0,3.3,28.0
+F,N,Y,0,141750.0,Pensioner,Higher education,Married,House,1,0,1,0,,2,0,0.0,56.0
+F,N,N,1,135000.0,Commercial associate,Secondary,Married,House,1,0,0,0,Managers,3,0,1.7,34.0
+M,Y,Y,0,270000.0,Working,Secondary,Separated,House,1,0,0,0,Laborers,1,0,3.7,48.0
+F,N,Y,0,121500.0,Working,Secondary,Married,With parents,1,1,1,0,Core staff,2,0,14.3,36.0
+F,N,Y,0,306000.0,Pensioner,Higher education,Married,House,1,0,0,0,,2,1,0.0,59.0
+F,N,Y,2,157500.0,Working,Secondary,Married,House,1,0,0,0,Laborers,4,0,5.2,39.0
+F,N,N,0,135000.0,Working,Secondary,Married,With parents,1,0,0,0,,2,0,2.4,34.0
+F,N,Y,0,121500.0,Pensioner,Secondary,Married,House,1,0,1,0,,2,0,0.0,62.0
+F,N,Y,0,202500.0,Working,Secondary,Civil marriage,House,1,0,0,0,Core staff,2,0,5.4,30.0
+M,Y,Y,14,225000.0,Working,Secondary,Separated,House,1,0,0,0,Drivers,15,0,4.6,49.0
+F,N,Y,0,135000.0,Commercial associate,Secondary,Married,House,1,0,0,0,Waiters/barmen staff,2,0,4.9,42.0
+F,N,N,0,112500.0,Working,Secondary,Married,Municipal apartment,1,1,0,0,Laborers,2,0,3.2,32.0
+F,Y,Y,0,225000.0,Working,Higher education,Married,House,1,0,0,1,Managers,2,0,6.7,49.0
+F,Y,Y,0,90000.0,Pensioner,Secondary,Married,House,1,0,0,0,,2,0,0.0,59.0
+F,N,Y,2,112500.0,Working,Secondary,Married,With parents,1,0,0,0,Core staff,4,0,1.1,40.0
+M,Y,Y,0,157500.0,Working,Secondary,Married,House,1,0,0,0,,2,0,1.6,
+M,N,Y,0,180000.0,Working,Secondary,Married,House,1,0,0,0,,2,1,10.0,36.0
+F,N,N,0,76500.0,Pensioner,Secondary,Married,House,1,0,1,0,,2,0,0.0,64.0
+F,N,Y,0,90000.0,Commercial associate,Higher education,Married,House,1,0,0,1,Sales staff,2,0,2.2,25.0
+F,N,N,2,130500.0,Working,Secondary,Married,House,1,0,0,0,Sales staff,4,0,9.5,42.0
+F,Y,Y,1,225000.0,Commercial associate,Higher education,Married,House,1,1,1,0,Managers,3,0,2.2,47.0
+M,N,Y,1,135000.0,Working,Secondary,Married,House,1,1,1,0,Laborers,3,0,4.0,51.0
+F,N,Y,0,165600.0,Pensioner,Secondary,Widow,House,1,0,1,0,,1,0,0.0,59.0
+M,Y,N,0,202500.0,Working,Secondary,Married,With parents,1,0,0,0,Laborers,2,1,3.8,38.0
+F,N,N,0,135000.0,Working,Secondary,Married,House,1,0,1,0,,2,0,15.1,47.0
+F,N,N,0,135000.0,Working,Secondary,Single,House,1,0,0,0,,1,0,18.1,46.0
+F,N,N,0,72000.0,Working,Secondary,Single,House,1,1,0,0,Cleaning staff,1,0,4.0,52.0
+F,N,Y,1,202500.0,State servant,Secondary,Civil marriage,House,1,0,0,0,Private service staff,3,0,24.0,44.0
+M,N,N,0,180000.0,Working,Secondary,Married,House,1,0,1,0,Laborers,2,0,12.8,37.0
+F,Y,Y,0,108000.0,Working,Secondary,Separated,House,1,0,0,1,Cleaning staff,1,0,2.5,47.0
+F,Y,Y,0,90000.0,Working,Secondary,Married,House,1,1,1,0,Cooking staff,2,1,2.7,52.0
+F,Y,N,0,72000.0,Working,Secondary,Married,House,1,1,1,0,Medicine staff,2,0,0.6,42.0
+M,Y,Y,1,157500.0,Working,Secondary,Married,House,1,0,0,0,,3,0,5.8,32.0
+F,N,Y,0,270000.0,Pensioner,Secondary,Widow,House,1,0,1,0,,1,0,0.0,57.0
+F,N,Y,0,157500.0,Pensioner,Secondary,Widow,House,1,0,1,0,,1,0,0.0,67.0
+F,N,Y,0,135000.0,Working,Secondary,Widow,House,1,0,1,0,Managers,1,1,2.5,39.0
+F,Y,N,0,315000.0,Commercial associate,Secondary,Civil marriage,House,1,0,1,0,Core staff,2,0,3.0,54.0
+M,N,N,0,202500.0,Working,Higher education,Single,House,1,0,0,0,,1,1,11.9,35.0
+F,N,Y,3,37800.0,Pensioner,Secondary,Married,House,1,0,0,0,,5,0,0.0,36.0
+M,Y,N,2,202500.0,Working,Higher education,Married,House,1,0,0,0,Drivers,4,0,2.0,32.0
+F,N,Y,0,157500.0,Pensioner,Secondary,Widow,House,1,0,0,0,,1,0,0.0,65.0
+F,N,Y,0,135000.0,Working,Secondary,Single,House,1,0,0,1,Laborers,1,0,1.1,34.0
+M,N,N,2,225000.0,Working,Higher education,Civil marriage,House,1,1,0,0,Laborers,4,0,8.5,46.0
+F,Y,Y,0,157500.0,Working,Secondary,Married,House,1,0,0,0,Laborers,2,0,1.2,41.0
+M,Y,Y,2,900000.0,Commercial associate,Higher education,Married,House,1,0,0,0,Managers,4,0,2.7,27.0
+F,N,Y,0,81000.0,Working,Secondary,Married,House,1,1,0,0,Sales staff,2,0,0.8,54.0
+M,Y,Y,0,256500.0,Commercial associate,Higher education,Married,House,1,0,0,1,Core staff,2,0,4.6,59.0
+F,N,N,0,135000.0,Pensioner,Secondary,Widow,Municipal apartment,1,0,1,0,,1,0,0.0,65.0
+F,N,Y,0,189000.0,Commercial associate,Secondary,Married,House,1,1,1,0,,2,0,17.0,55.0
+F,N,Y,0,112500.0,Pensioner,Secondary,Married,House,1,0,0,0,,2,0,0.0,67.0
+F,N,N,0,99000.0,Working,Secondary,Married,With parents,1,1,0,0,Medicine staff,2,0,14.9,54.0
+F,N,Y,0,360000.0,State servant,Higher education,Married,House,1,0,1,0,Managers,2,0,8.7,44.0
+M,Y,N,1,,Working,Secondary,Married,House,1,0,1,0,Laborers,3,0,5.3,36.0
+F,N,N,0,130500.0,Working,Secondary,Civil marriage,House,1,0,1,0,Cleaning staff,2,0,13.2,41.0
+F,N,Y,0,90000.0,Pensioner,Secondary,Single,House,1,0,1,0,,1,0,0.0,64.0
+F,N,Y,0,135000.0,Pensioner,Secondary,Married,House,1,0,1,0,,2,0,0.0,63.0
+M,Y,Y,0,202500.0,Commercial associate,Secondary,Civil marriage,House,1,0,0,1,Laborers,2,1,4.6,33.0
+F,N,N,0,202500.0,Working,Secondary,Separated,House,1,0,0,0,Laborers,1,0,11.4,46.0
+F,N,Y,0,135000.0,State servant,Higher education,Single,Municipal apartment,1,0,0,0,Core staff,1,0,5.3,29.0
+F,N,N,1,135000.0,Commercial associate,Secondary,Married,House,1,0,0,0,Sales staff,3,0,0.6,40.0
+M,N,N,0,270000.0,Working,Secondary,Married,With parents,1,1,1,0,Laborers,2,0,1.7,32.0
+M,N,N,0,180000.0,Working,Higher education,Married,House,1,0,0,0,Laborers,2,0,9.4,39.0
+F,N,Y,0,135000.0,Working,Secondary,Single,House,1,0,0,0,,1,0,9.1,41.0
+M,Y,N,1,450000.0,Working,Higher education,Married,House,1,1,0,0,Managers,3,0,15.2,53.0
+M,Y,N,2,157500.0,Working,Secondary,Married,Municipal apartment,1,0,0,0,Cleaning staff,4,0,3.1,34.0
+M,Y,Y,0,135000.0,Pensioner,Secondary,Married,House,1,0,0,0,,2,0,0.0,67.0
+F,N,N,1,103500.0,Working,Secondary,Married,House,1,0,0,0,Sales staff,3,0,3.3,32.0
+F,N,Y,0,247500.0,Pensioner,Secondary,Single,House,1,0,0,0,,1,0,0.0,64.0
+F,N,Y,1,382500.0,State servant,Higher education,Single,With parents,1,0,0,0,Managers,2,0,1.5,33.0
+F,Y,Y,0,90000.0,Working,Secondary,Married,House,1,0,0,0,Laborers,2,0,14.6,37.0
+F,N,N,0,112500.0,Pensioner,Secondary,Married,Municipal apartment,1,0,0,0,,2,1,0.0,59.0
+M,N,Y,2,360000.0,State servant,Higher education,Married,House,1,0,1,0,Managers,4,0,15.4,44.0
+M,Y,Y,0,135000.0,Working,Secondary,Married,House,1,0,0,0,Laborers,2,0,9.3,42.0
+F,N,Y,0,202500.0,Commercial associate,Secondary,Married,House,1,0,0,0,Medicine staff,2,0,4.3,57.0
+F,N,Y,2,180000.0,Working,Incomplete higher,Separated,House,1,1,0,0,,3,1,9.6,34.0
+F,N,N,0,180000.0,Commercial associate,Secondary,Single,House,1,0,0,0,,1,0,6.5,31.0
+F,Y,N,0,225000.0,Working,Secondary,Married,House,1,0,0,0,Laborers,2,0,0.3,50.0
+M,N,N,3,180000.0,Working,Secondary,Married,House,1,0,0,0,Laborers,5,0,9.7,39.0
+F,N,N,0,315000.0,Commercial associate,Secondary,Separated,House,1,1,1,1,Private service staff,1,0,8.9,48.0
+F,N,Y,4,180000.0,Commercial associate,Secondary,Married,House,1,0,0,0,Core staff,6,1,20.3,48.0
+F,Y,N,0,153000.0,Pensioner,Secondary,Widow,House,1,0,1,0,,1,0,0.0,65.0
+F,N,Y,0,157500.0,Pensioner,Secondary,Widow,House,1,0,0,0,,1,0,0.0,65.0
+F,N,N,0,315000.0,Commercial associate,Higher education,Married,House,1,1,1,1,Sales staff,2,0,0.8,44.0
+M,Y,Y,1,202500.0,Working,Secondary,Married,House,1,1,0,0,,3,0,0.9,28.0
+M,Y,N,2,112500.0,Working,Secondary,Married,House,1,0,1,0,Laborers,4,0,0.6,36.0
+F,N,Y,0,171000.0,Working,Higher education,Married,House,1,0,0,0,High skill tech staff,2,0,10.6,50.0
+F,Y,Y,0,112500.0,Working,Higher education,Married,House,1,1,1,0,Laborers,2,0,1.4,28.0
