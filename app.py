@@ -44,7 +44,12 @@ def predict_datapoint():
 
     predict_pipeline=PredictPipeline()
     results = predict_pipeline.predict(pred_df)
-    return render_template('home.html',results=results[0])
+    
+    if results[0]==0.0:
+        res = "Credit card approved"
+    else:
+        res="credit card not approved"    
+    return render_template('home.html',results=res)
 
 if __name__=='__main__':
     app.run(debug=True,host="0.0.0.0",port=5000)
