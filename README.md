@@ -55,7 +55,7 @@ For insight in to data please refer - notebook/EDA/python-notebook file
 This pipeline converts given data into dataframe and has various functions to load pickle files and predict the final results in python.
 
 **Flask App creation :**
-Flask app is created with User Interface to predict the Student math score inside a Web Application.
+Flask app is created with User Interface to predict the Credid card approval prediction inside a Web Application.
 
 ## Scrrenshot of flask app running on localhost :
 
