@@ -12,6 +12,7 @@ from sklearn.compose import ColumnTransformer
 from sklearn.pipeline import Pipeline
 from sklearn.preprocessing import OneHotEncoder,OrdinalEncoder
 from sklearn.preprocessing import StandardScaler
+from sklearn.feature_selection import SelectKBest,f_classif
 
 # importing custom packages
 import src.logger as logging
@@ -264,6 +265,16 @@ class Preprocessor:
                                     ("edu_pipe", edu_pipe, edu[0]),
                                     ("num_pipe", num_pipe, num_col),
                                     ("cat_pipe", cat_pipe, cat_col)])
+
+            # feature_selection = SelectKBest()   # selecting features using SelectKbest
+            #
+            # feature_selection_transfomer = ColumnTransformer(transformers=[
+            #         ("feature_selection_transfomer",feature_selection,slice(0,43))])  # Feature selection using selectKbest
+            #
+            # preprocessor = Pipeline([('transformer_1',transformer_1),
+            #                         ('feature_selection_transfomer',feature_selection_transfomer)
+            #                               ]
+            #                              )
 
             return preprocessor
 
